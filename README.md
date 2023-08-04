@@ -25,7 +25,7 @@ An asterisk marks rounded vowels.
 All possible diphthongs and thriphthongs are allowed.
 
 ### Phonotactics
-The syllable structure in Shiofaioth is (C)V(C), where V can be a monophthong, diphthong or triphthong. The beginning consonant can be omitted in a word-initial syllable, and the ending consonant may only be present on a word-final syllable. Thus, there are no consonant clusters. As postpositions and other particles are often connected to other words with hyphens, thay may seem to break this rule, but they are technically separate words. The connecting is done for aesthetics and clarity.
+The syllable structure in Shiofaioth is (C)V(C), where V can be a monophthong, diphthong or triphthong. The beginning consonant can be omitted in a word-initial syllable, and the ending consonant may only be present on a word-final syllable. Thus, there are no consonant clusters. As postpositions and other particles are often connected to other words with hyphens, that may seem to break this rule, but they are technically separate words. The connecting is done for aesthetics and clarity.
 
 ## Grammar
 
@@ -90,7 +90,8 @@ Shiofaioth has nine noun cases, each marked with an article suffix as listed in 
 
 The cases are used as follows:
 * **Nominative**: used for the subject of a sentence, and often for a predicative.
-  * Example 1 (subject): 
+  * Example 1 (subject): "*Dai uicieteir* xae-bailei-duei.", "The teacher is dancing."
+  * Example 2 (predicative): "Mie xae-ecoi-duei *hui peib*", "I am a non-binary person."
 
 ### Verbs
 All predicates in Shiofaioth have an obligatory preposition indicating mood and in the case of indicative mood also evidentiality, and an obligatory postposition indicating the voluntariness of the action. Tense- and aspect-like information may be indicated with non-obligatory particles.
@@ -121,9 +122,11 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 ## Dictionary
 The vocabulary of Shiofaioth comes from multiple source languages, including but not limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms.
 
+* bailei - (verb) "to dance"
 * bei - (particle) "of type", used for compounding nouns
 * bue - (particle) inferential indicative preposition
 * duei - (particle) postposition for voluntary action or naturally occurring event
+* ecoi - (verb) "to be"
 * eiciae - (verb) "to look for", "to search"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
@@ -139,7 +142,10 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
 * peib - (noun, class 3) "a non-binary person"
+* raiboud - (verb) "to work (for the capital)"
 * rue - (particle) imperative preposition
 * soe - (particle) reportative indicative preposition
+* uicie - (verb) "to teach", "to educate"
+* uicieteir - (noun, class 2) "teacher"
 * xae - (particle) firsthand indicative preposition
 * xoai - (particle) postposition for a rebellious act or event
