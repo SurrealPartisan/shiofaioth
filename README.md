@@ -104,7 +104,7 @@ The cases are used as follows:
 * **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it.
   * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikeir*!", "Don't believe a politician!"
   * Example 2 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
-* **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently or with one of the many postpositions as found in the table below.
+* **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently (very often, even when a suitable postposition exists) or with one of the many postpositions as found in the table below.
   * Example 1 (independent): "Mie xae-xiefen-duei hein boun *duit koira*.", "I give a bone to the dog."
   * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pieteir-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
 
@@ -124,11 +124,29 @@ The cases are used as follows:
 | duirin       | while / during (a part of)             | before         | after              |
 
 * **Comitative**: Used for accompaniment, telling that action is performed together with someone (or rarely something). The postposition "naiet" ("no") can be used to tell something is done without someone.
-  * Example 1 (positive): "Dui cailid xae-leikiae-duei haik paurein.", "The child plays with a parent."
-  * Example 2 (negative): "Mie xae-feinier-heui haik amio naiet.", "I come without friends." (Note: this could also mean "I come with non-friend(s)". In that case "amio-naiet" would be more usually written with a hyphen, but generally the meaning is contextual.)
+  * Example 1 (positive): "Dui cailid xae-leikiae-duei *haik paurein*.", "The child plays with a parent."
+  * Example 2 (negative): "Mie xae-feinier-heui *haik amio naiet*.", "I come without friends." (Note: this could also mean "I come with non-friend(s)". In that case "amio-naiet" would be more usually written with a hyphen, but generally the meaning is contextual.)
 * **Instrumental**: used to tell with which tool or by which means an action was performed. Like with comitative, the postposition "naiet" can be used to tell the deed was done without something.
-  * Example 1 (positive): "Sie bue-feinier-fioi eip torein.", "You seem to have come by train."
-  * Example 2 (negative): "Mie xae-repaer-duei xien eip haumeir naiet.", "I repair it without a hammer."
+  * Example 1 (positive): "Sie bue-feinier-fioi *eip torein*.", "You seem to have come by train."
+  * Example 2 (negative): "Mie xae-repaer-duei xien *eip haumeir naiet*.", "I repair it without a hammer."
+
+### Pronouns
+
+#### Personal pronouns
+The personal pronouns are listed in the following table:
+
+| Pronoun | Meaning                           |
+| ------- | --------------------------------- |
+| mie     | I                                 |
+| sie     | you (singular)                    |
+| xie     | they (singular), he, she, it      |
+| muo     | we (both inclusive and exclusive) |
+| suo     | you (plural)                      |
+| xuo     | they (plural)                     |
+
+When inflected for cases, the personal pronouns take directly the corresponding article suffix.
+* Example 1: "Mie xae-bailei-duei suom.", "I dance for you."
+* Example 2: "Sie xae-teik-duei dein kietab xiex.", "You take the book from her."
 
 ### Verbs
 All predicates in Shiofaioth have an obligatory preposition indicating mood and in the case of indicative mood also evidentiality, and an obligatory postposition indicating the voluntariness of the action. Tense- and aspect-like information may be indicated with non-obligatory particles, additional verbes etc.
@@ -147,14 +165,18 @@ Actions are divided to five levels of voluntariness. The postpositions correspon
 #### Mood and evidentiality
 The predicate prepositions for mood and evidentiality are listed in the following table:
 
-| Mood                    | Preposition |
-| ----------------------: | :---------: |
-| Indicative, firsthand   | xae         |
-| Indicative, inferential | bue         |
-| Indicative, reportative | soe         |
-| Imperative              | rue         |
-| Conditional             | lie         |
-| Interrogative           | foe         |
+| Mood, evidential              | Preposition |
+| ----------------------------: | :---------: |
+| Indicative, firsthand         | xae         |
+| Indicative, general knowledge | die         |
+| Indicative, inferential       | bue         |
+| Indicative, reportative       | soe         |
+| Imperative                    | rue         |
+| Conditional                   | lie         |
+| Interrogative                 | foe         |
+
+#### Impersonal verbs and passive-like form
+There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasizxe the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria".
 
 ## Dictionary
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms.
@@ -167,6 +189,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * boun - (noun, class 1) "bone"
 * bue - (particle) inferential indicative preposition
 * cailid - (noun, class 3) "child", "physically immature person or creature"
+* die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
 * doia - (verb) "to do"
 * duei - (particle) postposition for voluntary action or naturally occurring event
@@ -179,18 +202,23 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * fuosi - (noun, class 3) "year"
 * haumeir - (noun, class 1) "hammer"
 * heui - (particle) postposition for an action or event indirectly forced by conditions
+* huomo - (noun, class 3) "human"
 * ka - (particle) used for class 2 possession
 * ki - (particle) used for class 1 possession
+* kietab - (noun, class 1) "book"
 * koaxein - (particle) "against" (in a non-physical sense)
 * koc - (noun, class 3) "cat"
 * koira - (noun, class 3) "dog"
 * kouofeit - (verb) "to cook"
 * kouofeiteir - (noun, class 3) "cook"
+* lain - (verb) "to loan", "to borrow"
 * leikiae - (verb) "to play"
 * lie - (particle) conditional preposition
+* liraeria - (noun, class 1) "library"
 * leip - (noun, class 1) bread
 * mie - (pronoun) "I"
 * moer - (noun, class 3) "man"
+* mui - (adjective) "multiple"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
 * paod - (noun, class 2) "pet"
@@ -204,11 +232,13 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * poulais - (noun, class 3) "police (officer)", "cop"
 * raiboud - (verb) "to work (for the capital)", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
+* rein - (verb) "to rain"
 * repaer - (verb) "to repair", "to fix"
 * rue - (particle) imperative preposition
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
 * soe - (particle) reportative indicative preposition
+* teik - (verb) "to take"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
 * uicie - (verb) "to teach", "to educate"
