@@ -95,15 +95,17 @@ The cases are used as follows:
 * **Nominative**: Used for the subject of a sentence, and often for a predicative.
   * Example 1 (subject): "*Dai uicieteir* xae-bailei-duei.", "The teacher is dancing."
   * Example 2 (predicative): "Mie xae-ecoi-duei *hui peib*", "I am a non-binary person."
-* **Genitive** Used for class 1 possession, either in adjectival form with the postposition "ki" or independently (usually as a predicative) without it.
+* **Genitive** Used for class 1 possession, either in adjectival form with the postposition "ki" or independently (usually as a predicative) without it. The independent form with the verb "ecoi" can be used to translate "to have".
   * Example 1 (adjectival form): "dei haumeir *duic raiboudeir-ki*", "the hammer of the worker"
   * Example 2 (independent form): "Dei leip xae-ecoi-duei *duic kouofeiteir*.", "The bread is the cook's."
+  * Example 3 ("to have"): "*Deic haus* soe-ecoi-duei ei puero duos.", "The house has two doors." (It is typical but not necessary to put the possessor to the beginning of the sentence.)
 * **Accusative**: Used for the direct object and with postpositions "four" ("for") and "koaxein" ("against" in the non-physical sense).
   * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulais*.", "a tortoise bites a cop (defiantly)".
   * Example 2 (with a postposition): "Mie xae-doia-paoi xien dain dienio-four.", "I (have to) do it for the child(ren)."
-* **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it.
+* **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible.
   * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikeir*!", "Don't believe a politician!"
   * Example 2 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
+  * Example 3 ("to have"): "*Duim suroiteir* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
 * **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently (very often, even when a suitable postposition exists) or with one of the many postpositions as found in the table below.
   * Example 1 (independent): "Mie xae-xiefen-duei hein boun *duit koira*.", "I give a bone to the dog."
   * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pieteir-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
@@ -125,10 +127,15 @@ The cases are used as follows:
 
 * **Comitative**: Used for accompaniment, telling that action is performed together with someone (or rarely something). The postposition "naiet" ("no") can be used to tell something is done without someone.
   * Example 1 (positive): "Dui cailid xae-leikiae-duei *haik paurein*.", "The child plays with a parent."
-  * Example 2 (negative): "Mie xae-feinier-heui *haik amio naiet*.", "I come without friends." (Note: this could also mean "I come with non-friend(s)". In that case "amio-naiet" would be more usually written with a hyphen, but generally the meaning is contextual.)
+  * Example 2 (negative): "Mie xae-feinier-heui *haik amio naiet*.", "I come without friends." (Note: this could also mean "I come with non-friend(s)". In that case "amio-naiet" would be more usually written with a hyphen, but generally the meaning is inferred from the context. To clarify, one may say "haik amio seirou", "with zero friends".)
 * **Instrumental**: used to tell with which tool or by which means an action was performed. Like with comitative, the postposition "naiet" can be used to tell the deed was done without something.
   * Example 1 (positive): "Sie bue-feinier-fioi *eip torein*.", "You seem to have come by train."
   * Example 2 (negative): "Mie xae-repaer-duei xien *eip haumeir naiet*.", "I repair it without a hammer."
+
+#### Number
+Nouns are not marked for number, and by default the number of a noun is inferred from context. However, quantifiers can be used to make the number explicit. One uses for example the adjective "mui" ("multiple") to make an explicit plural, and the numeral "uon" ("one") for explicit singular.
+* Example 1 (singular): "Mie xae-xait-duei soudiu uon.", "I ate one sausage."
+* Example 2 (plural): "Xiem die-ecoi-duei hai siaruc mui", "They have siblings."
 
 ### Pronouns
 
@@ -193,6 +200,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * dienio - (noun, class 2) "(someone's) child"
 * doia - (verb) "to do"
 * duei - (particle) postposition for voluntary action or naturally occurring event
+* duos - (numeral) "two"
 * ecoi - (verb) "to be"
 * eiciae - (verb) "to look for", "to search"
 * feinier - (verb) "to come"
@@ -201,6 +209,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * foe - (particle) interrogative preposition
 * fuosi - (noun, class 3) "year"
 * haumeir - (noun, class 1) "hammer"
+* haus - (noun, class 1) "house"
 * heui - (particle) postposition for an action or event indirectly forced by conditions
 * huomo - (noun, class 3) "human"
 * ka - (particle) used for class 2 possession
@@ -230,19 +239,25 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
 * poulitaikeir - (noun, class 3) "politician"
 * poulais - (noun, class 3) "police (officer)", "cop"
+* puero - (noun, class 1) "door"
 * raiboud - (verb) "to work (for the capital)", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
 * rein - (verb) "to rain"
 * repaer - (verb) "to repair", "to fix"
 * rue - (particle) imperative preposition
+* seirou - (numeral) "zero"
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
 * soe - (particle) reportative indicative preposition
+* soudiu - (noun, class 1) "sausage"
+* suroit - (verb) "to build", "to construct"
+* suroiteir - (noun, class 3) "builder", "construction worker"
 * teik - (verb) "to take"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
 * uicie - (verb) "to teach", "to educate"
 * uicieteir - (noun, class 2) "teacher"
+* uon - (numeral) "one"
 * xae - (particle) firsthand indicative preposition
 * xait - (verb) "to eat"
 * xie - (pronoun) "(singular) they", "he", "she", "it" 
