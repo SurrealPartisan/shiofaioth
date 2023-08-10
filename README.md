@@ -183,7 +183,12 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 | Interrogative                 | foe         |
 
 #### Impersonal verbs and passive-like form
-There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasizxe the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria".
+There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasize the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria". A passive with an agent may also be translated by bringing the object to the front and leaving the subject to the last position.
+
+#### Infinitive and participles
+The infinitive is a verb without the pre- and postpositions given to a predicate. Infinitives are used by auxiliary verbs like "puedaen" ("can") and some other verbs like "kiere" ("to want"). An infinitive can also be used as a noun, meaning the action/event described by the verb, or the product of it. In most cases these nouns belong to class 2, as they are by definition *someone's* actions. In some cases that doesn't make sense, though, so for example "ui rein" ("rain") is a class 3 noun.
+* Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
+* Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai raiboud* miem-ka.", "The explosion was my work."
 
 ## Dictionary
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms.
@@ -214,6 +219,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * huomo - (noun, class 3) "human"
 * ka - (particle) used for class 2 possession
 * ki - (particle) used for class 1 possession
+* kiere - (verb) "to want"
 * kietab - (noun, class 1) "book"
 * koaxein - (particle) "against" (in a non-physical sense)
 * koc - (noun, class 3) "cat"
@@ -225,6 +231,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * lie - (particle) conditional preposition
 * liraeria - (noun, class 1) "library"
 * leip - (noun, class 1) bread
+* loucion - (noun, class 3) "explosion"
 * mie - (pronoun) "I"
 * moer - (noun, class 3) "man"
 * mui - (adjective) "multiple"
@@ -239,15 +246,17 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
 * poulitaikeir - (noun, class 3) "politician"
 * poulais - (noun, class 3) "police (officer)", "cop"
+* puedaen - (verb) "can", "to be able"
 * puero - (noun, class 1) "door"
-* raiboud - (verb) "to work (for the capital)", (noun, class 1) "work"
+* raiboud - (verb) "to work", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
-* rein - (verb) "to rain"
+* rein - (verb) "to rain", (noun, class 3) "rain"
 * repaer - (verb) "to repair", "to fix"
 * rue - (particle) imperative preposition
 * seirou - (numeral) "zero"
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
+* silaif - (verb) "to sleep"
 * soe - (particle) reportative indicative preposition
 * soudiu - (noun, class 1) "sausage"
 * suroit - (verb) "to build", "to construct"
