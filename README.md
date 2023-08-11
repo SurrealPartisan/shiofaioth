@@ -155,6 +155,12 @@ When inflected for cases, the personal pronouns take directly the corresponding 
 * Example 1: "Mie xae-bailei-duei suom.", "I dance for you."
 * Example 2: "Sie xae-teik-duei dein kietab xiex.", "You take the book from her."
 
+### Adjectives and adverbs
+No distinction between adjectives and adverbs is made in Shiofaioth, they are one part of speech. Attributive adjectives come after the noun they describe, and adverbs copme after the verb or adjective they describe.
+
+#### Comparison
+Comparison of adjectives and adverbs is done with words "mas" ("more"), "masit" ("most"), "les" ("less") and "lesit" ("least"). These come after the adjective or adverb.
+
 ### Verbs
 All predicates in Shiofaioth have an obligatory preposition indicating mood and in the case of indicative mood also evidentiality, and an obligatory postposition indicating the voluntariness of the action. Tense- and aspect-like information may be indicated with non-obligatory particles, additional verbes etc.
 
@@ -182,6 +188,9 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 | Conditional                   | lie         |
 | Interrogative                 | foe         |
 
+#### Tense- and aspect-like information
+In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently").
+
 #### Impersonal verbs and passive-like form
 There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasize the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria". A passive with an agent may also be translated by bringing the object to the front and leaving the subject to the last position.
 
@@ -190,10 +199,20 @@ The infinitive is a verb without the pre- and postpositions given to a predicate
 * Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
 * Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai raiboud* miem-ka.", "The explosion was my work."
 
+Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are three types of participles in Shiofaioth: the active or nominative participle (suffix "-(i)fa"), and two passive participles (suffix "-(i)tafa"), one accusative and the other dative (suffix "-(i)mafa"). The initial i of the suffixes will be included if the verb eds in a consonant. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing.
+* Example 1 (nominative participle): "ui moer baileifa", "a dancing man"
+* Example 2 (accusative participle): "ai cou baileitafa", "a show that is performed by dancing"
+* Example 3 (dative participle): "ui nais baileimafa", "a woman for whom a dance is performed"
+* Example 4 (past participle): "ei leip xaititafa aikai mas", "a bread that has been eaten"
+* Example 5 (present participle): "ei leip xaititafa aura", "a bread that is being eaten"
+* Example 6 (future participle): "ei leip xaititafa muoehaei mas", "a bread that will be eaten"
+
 ## Dictionary
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms.
 
+* aikai - (adjective/adverb) "early"
 * amio - (noun, class 2) "friend"
+* aura - (adjective/adverb) "current", "currently", "now"
 * ausoa - (verb) "to believe"
 * bailei - (verb) "to dance"
 * baisen - (verb) (to bite)
@@ -201,6 +220,8 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * boun - (noun, class 1) "bone"
 * bue - (particle) inferential indicative preposition
 * cailid - (noun, class 3) "child", "physically immature person or creature"
+* cou - (verb) "to perform", (noun, class 2) "performance", "show"
+* dai - (noun, class 3) "day"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
 * doia - (verb) "to do"
@@ -209,7 +230,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * ecoi - (verb) "to be"
 * eiciae - (verb) "to look for", "to search"
 * feinier - (verb) "to come"
-* fieme - (adjective) "previous"
+* fieme - (adjective/adverb) "previous", "previously"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
 * fuosi - (noun, class 3) "year"
@@ -227,14 +248,19 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * kouofeit - (verb) "to cook"
 * kouofeiteir - (noun, class 3) "cook"
 * lain - (verb) "to loan", "to borrow"
+* les - (adjective/adverb) "less"
+* lesit - (adjective/adverb) "least"
 * leikiae - (verb) "to play"
 * lie - (particle) conditional preposition
 * liraeria - (noun, class 1) "library"
 * leip - (noun, class 1) bread
 * loucion - (noun, class 3) "explosion"
+* mas - (adjective/adverb) "more"
+* masit - (adjective/adverb) "most"
 * mie - (pronoun) "I"
 * moer - (noun, class 3) "man"
-* mui - (adjective) "multiple"
+* mui - (adjective/adverb) "multiple"
+* muoehaei - (adjective/adverb) "late"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
 * paod - (noun, class 2) "pet"
@@ -246,7 +272,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
 * poulitaikeir - (noun, class 3) "politician"
 * poulais - (noun, class 3) "police (officer)", "cop"
-* puedaen - (verb) "can", "to be able"
+* puedaen - (verb) "can", "to be able", "to know (a skill)"
 * puero - (noun, class 1) "door"
 * raiboud - (verb) "to work", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
