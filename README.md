@@ -104,10 +104,11 @@ The cases are used as follows:
   * Example 2 (with a postposition): "Mie xae-doia-paoi xien dain dienio-four.", "I (have to) do it for the child(ren)."
 * **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible.
   * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikeir*!", "Don't believe a politician!"
+  * Example 2 (indirect object together with a direct object): "Mie xae-xiefen-duei hein boun *duim koira*.", "I give a bone to the dog."
   * Example 2 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
   * Example 3 ("to have"): "*Duim suroiteir* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
 * **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently (very often, even when a suitable postposition exists) or with one of the many postpositions as found in the table below.
-  * Example 1 (independent): "Mie xae-xiefen-duei hein boun *duit koira*.", "I give a bone to the dog."
+  * Example 1 (independent): "Mie xae-ecoi-duei *dail haim*.", "I am home."
   * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pieteir-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
 
 | Postposition | Locative meaning                       | Lative meaning | Separative meaning |
@@ -214,43 +215,44 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * amio - (noun, class 2) "friend"
 * aura - (adjective/adverb) "current", "currently", "now"
 * ausoa - (verb) "to believe"
-* bailei - (verb) "to dance"
-* baisen - (verb) (to bite)
+* bailei - (verb, transitive) "to dance"
+* baisen - (verb, transitive) (to bite)
 * bei - (particle) "of type", used for compounding nouns
 * boun - (noun, class 1) "bone"
 * bue - (particle) inferential indicative preposition
 * cailid - (noun, class 3) "child", "physically immature person or creature"
-* cou - (verb) "to perform", (noun, class 2) "performance", "show"
+* cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
 * dai - (noun, class 3) "day"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
-* doia - (verb) "to do"
+* doia - (verb, transitive) "to do"
 * duei - (particle) postposition for voluntary action or naturally occurring event
 * duos - (numeral) "two"
-* ecoi - (verb) "to be"
-* eiciae - (verb) "to look for", "to search"
-* feinier - (verb) "to come"
+* ecoi - (verb, copular) "to be"
+* eiciae - (verb, transitive) "to look for", "to search"
+* feinier - (verb, intransitive) "to come"
 * fieme - (adjective/adverb) "previous", "previously"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
 * fuosi - (noun, class 3) "year"
+* haim - (noun, class 2) "home"
 * haumeir - (noun, class 1) "hammer"
 * haus - (noun, class 1) "house"
 * heui - (particle) postposition for an action or event indirectly forced by conditions
 * huomo - (noun, class 3) "human"
 * ka - (particle) used for class 2 possession
 * ki - (particle) used for class 1 possession
-* kiere - (verb) "to want"
+* kiere - (verb, transitive) "to want"
 * kietab - (noun, class 1) "book"
 * koaxein - (particle) "against" (in a non-physical sense)
 * koc - (noun, class 3) "cat"
 * koira - (noun, class 3) "dog"
-* kouofeit - (verb) "to cook"
+* kouofeit - (verb, transitive) "to cook"
 * kouofeiteir - (noun, class 3) "cook"
-* lain - (verb) "to loan", "to borrow"
+* lain - (verb, transitive) "to loan", "to borrow"
 * les - (adjective/adverb) "less"
 * lesit - (adjective/adverb) "least"
-* leikiae - (verb) "to play"
+* leikiae - (verb, transitive) "to play"
 * lie - (particle) conditional preposition
 * liraeria - (noun, class 1) "library"
 * leip - (noun, class 1) bread
@@ -267,33 +269,34 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
 * peib - (noun, class 3) "a non-binary person"
-* piet - (verb) "to drink"
+* piet - (verb, transitive) "to drink"
 * pieteir - (noun, class 3) "drinker"
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
 * poulitaikeir - (noun, class 3) "politician"
 * poulais - (noun, class 3) "police (officer)", "cop"
-* puedaen - (verb) "can", "to be able", "to know (a skill)"
+* puedaen - (verb, transitive) "can", "to be able", "to know (a skill)"
 * puero - (noun, class 1) "door"
-* raiboud - (verb) "to work", (noun, class 1) "work"
+* raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
-* rein - (verb) "to rain", (noun, class 3) "rain"
-* repaer - (verb) "to repair", "to fix"
+* rein - (verb, transitive) "to rain", (noun, class 3) "rain"
+* repaer - (verb, transitive) "to repair", "to fix"
 * rue - (particle) imperative preposition
 * seirou - (numeral) "zero"
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
-* silaif - (verb) "to sleep"
+* silaif - (verb, intransitive) "to sleep"
 * soe - (particle) reportative indicative preposition
 * soudiu - (noun, class 1) "sausage"
-* suroit - (verb) "to build", "to construct"
+* suroit - (verb, transitive) "to build", "to construct"
 * suroiteir - (noun, class 3) "builder", "construction worker"
-* teik - (verb) "to take"
+* teik - (verb, transitive) "to take"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
-* uicie - (verb) "to teach", "to educate"
+* uicie - (verb, transitive) "to teach", "to educate"
 * uicieteir - (noun, class 2) "teacher"
 * uon - (numeral) "one"
 * xae - (particle) firsthand indicative preposition
-* xait - (verb) "to eat"
-* xie - (pronoun) "(singular) they", "he", "she", "it" 
+* xait - (verb, transitive) "to eat"
+* xie - (pronoun) "(singular) they", "he", "she", "it"
+* xiefen - (verb, transitive) "to give"
 * xoai - (particle) postposition for a rebellious act or event
