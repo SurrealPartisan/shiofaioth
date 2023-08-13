@@ -118,7 +118,7 @@ The cases are used as follows:
 | lou          | below/under                            | to below       | from below         |
 | caid         | beside / next to                       | to beside      | from beside        |
 | nier         | near                                   | (to) near      | from near          |
-|||||
+| kesik        | among                                  | (to) among     | from among         |
 |||||
 |||||
 |||||
@@ -153,14 +153,23 @@ The personal pronouns are listed in the following table:
 | xuo     | they (plural)                     |
 
 When inflected for cases, the personal pronouns take directly the corresponding article suffix.
-* Example 1: "Mie xae-bailei-duei suom.", "I dance for you."
-* Example 2: "Sie xae-teik-duei dein kietab xiex.", "You take the book from her."
+* Example 1: "Mie xae-bailei-duei *suom*.", "I dance for you."
+* Example 2: "Sie xae-teik-duei dein kietab *xiex*.", "You take the book from her."
+
+#### Relative pronouns
+Shiofaith has three relative pronouns. "Iokae" is a non-restrictive relative pronoun referring to a single noun phrase, "aokae" is its restrictive counterpart, and "miekae" refers to a whole proposition. They are inflected for cases. All relative clauses are separated with commas.
+* Example 1 (non-restrictive): "Mie xae-laik-duei dein haus muoc-ki, iokaen xae-suroit-duei duil fuosi fieme duirin.", "I like our house, which was built last year."
+* Example 2 (restrictive): "Dui moer, *aokae soe-muerairedae-fioi dain siaruc miem-ka*, soe-ecoi-paoi heil tiuraem-ien.", "The man who killed my sibling is in prison."
+* Example 3 (whole proposition):
 
 ### Adjectives and adverbs
-No distinction between adjectives and adverbs is made in Shiofaioth, they are one part of speech. Attributive adjectives come after the noun they describe, and adverbs copme after the verb or adjective they describe.
+No distinction between adjectives and adverbs is made in Shiofaioth, they are one part of speech. Attributive adjectives come after the noun they describe, and adverbs come after the verb or adjective they describe.
 
 #### Comparison
-Comparison of adjectives and adverbs is done with words "mas" ("more"), "masit" ("most"), "les" ("less") and "lesit" ("least"). These come after the adjective or adverb.
+Comparison of adjectives and adverbs is done with words "mas" ("more"), "masit" ("most"), "les" ("less") and "lesit" ("least"). These come after the adjective or adverb. The word "kuin" ("than", "like", "as") can be used in comparisons, both comparative and equative.
+* Example 1 (comparative): "ei kaofei xae-ecoi-duei *xut-les kuin* ei ticai.", "Coffee is less good than tea."
+* Example 2 (equative): "Sie xae-bailei-duei *coen kuin* mie.", "You dance as beautifully as I do."
+* Example 3 (superlative): "Mie xae-ecoi-duei *hoix-masit* muol-kesik.", "I am the tallest of us."
 
 ### Verbs
 All predicates in Shiofaioth have an obligatory preposition indicating mood and in the case of indicative mood also evidentiality, and an obligatory postposition indicating the voluntariness of the action. Tense- and aspect-like information may be indicated with non-obligatory particles, additional verbes etc.
@@ -192,11 +201,13 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 #### Tense- and aspect-like information
 In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently").
 
-#### Impersonal verbs and passive-like form
+#### Impersonal verbs, passive-like form and detransitive
 There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasize the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria". A passive with an agent may also be translated by bringing the object to the front and leaving the subject to the last position.
 
+Detransitive is unmarked. That means basically that even a transitive verb can be used without an object.
+
 #### Infinitive and participles
-The infinitive is a verb without the pre- and postpositions given to a predicate. Infinitives are used by auxiliary verbs like "puedaen" ("can") and some other verbs like "kiere" ("to want"). An infinitive can also be used as a noun, meaning the action/event described by the verb, or the product of it. In most cases these nouns belong to class 2, as they are by definition *someone's* actions. In some cases that doesn't make sense, though, so for example "ui rein" ("rain") is a class 3 noun.
+The infinitive is a verb without the pre- and postpositions given to a predicate. Infinitives are used by auxiliary verbs like "puedaen" ("can") and some other verbs like "kiere" ("to want"). An infinitive can also be used as a noun, meaning the action/event described by the verb, or the product of it, or sometimes (if the action has no product) the object of it. In most cases these nouns belong to class 2, as they are by definition *someone's* actions. In some cases that doesn't make sense, though, so for example "ui rein" ("rain") is a class 3 noun.
 * Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
 * Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai raiboud* miem-ka.", "The explosion was my work."
 
@@ -208,6 +219,13 @@ Participles are adjectives/adverbs formed from verbs with derivational suffixes.
 * Example 5 (present participle): "ei leip xaititafa aura", "a bread that is being eaten"
 * Example 6 (future participle): "ei leip xaititafa muoehaei mas", "a bread that will be eaten"
 
+#### Causative
+A verbs meaning can be changed from "to do something" to "to cause someone/somehing to do something" by adding the suffix "-(e)dae" (the initial e is omitted if the verb stem ends in a vowel). If the original verb is intransitive (or copular), its subject becomes the direct object of the causative verb, taking the accusative case. If the original verb is transitive, its subject will take the dative form in the new sentence. In case the transitive verb is specifically ditransitive, there may be two different dative phrases in the sentence. If it isn't clear from the context which one is the original subject, it should come earlier in the sentence than the indirect object. The mood, evidentiality and voluntariness of the causative verb refer to the causation, not to the original verb.
+* Example 1 (intransitive verb): "Sie bue-muerairedae-duei xien!", "You killed him!" ("muerair", "to die")
+* Example 2 (transitive verb): "Mie xae-xaitedae-duei siem ein leip.", "I feed you some bread." ("xait", "to eat")
+* Example 3 (ditransitive verb): "Xie xae-coudae-duei miem dain bailei siem.", "They made me perform the dance for you." ("cou", "to perform")
+* Example 4 (copular verb): "Fei ticai xae-ecoidae-duei faelid mien." "Tea makes me happy." ("ecoi", "to be")
+
 ## Dictionary
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms.
 
@@ -215,12 +233,14 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * amio - (noun, class 2) "friend"
 * aura - (adjective/adverb) "current", "currently", "now"
 * ausoa - (verb) "to believe"
-* bailei - (verb, transitive) "to dance"
+* bailei - (verb, transitive) "to dance", (noun, class 2) "dance"
 * baisen - (verb, transitive) (to bite)
 * bei - (particle) "of type", used for compounding nouns
 * boun - (noun, class 1) "bone"
 * bue - (particle) inferential indicative preposition
+* bueno - (adjective/adverb) "(morally) good", "well"
 * cailid - (noun, class 3) "child", "physically immature person or creature"
+* coen - (adjective/adverb) "beautiful"
 * cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
 * dai - (noun, class 3) "day"
 * die - (particle) - general information indicative preposition
@@ -230,6 +250,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * duos - (numeral) "two"
 * ecoi - (verb, copular) "to be"
 * eiciae - (verb, transitive) "to look for", "to search"
+* faelid - (adjective/adverb) "happy"
 * feinier - (verb, intransitive) "to come"
 * fieme - (adjective/adverb) "previous", "previously"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
@@ -239,8 +260,10 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * haumeir - (noun, class 1) "hammer"
 * haus - (noun, class 1) "house"
 * heui - (particle) postposition for an action or event indirectly forced by conditions
+* hoix - (adjective/adverb) "tall", "high"
 * huomo - (noun, class 3) "human"
 * ka - (particle) used for class 2 possession
+* kaofei - (noun, class 1) "coffee"
 * ki - (particle) used for class 1 possession
 * kiere - (verb, transitive) "to want"
 * kietab - (noun, class 1) "book"
@@ -249,6 +272,8 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * koira - (noun, class 3) "dog"
 * kouofeit - (verb, transitive) "to cook"
 * kouofeiteir - (noun, class 3) "cook"
+* kuin - (particle) "than", "like", "as"
+* laik - (verb, transitive) "to like"
 * lain - (verb, transitive) "to loan", "to borrow"
 * les - (adjective/adverb) "less"
 * lesit - (adjective/adverb) "least"
@@ -261,6 +286,8 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * masit - (adjective/adverb) "most"
 * mie - (pronoun) "I"
 * moer - (noun, class 3) "man"
+* muerair - (verb, intransitive) "to die", (noun, class 2) "death"
+* muerairedae - (verb, transitive) "to kill"
 * mui - (adjective/adverb) "multiple"
 * muoehaei - (adjective/adverb) "late"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
@@ -290,6 +317,8 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * suroit - (verb, transitive) "to build", "to construct"
 * suroiteir - (noun, class 3) "builder", "construction worker"
 * teik - (verb, transitive) "to take"
+* ticai - (noun, class 1) "tea"
+* tiuraem - (noun, class 1) "prison"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
 * uicie - (verb, transitive) "to teach", "to educate"
@@ -297,6 +326,8 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * uon - (numeral) "one"
 * xae - (particle) firsthand indicative preposition
 * xait - (verb, transitive) "to eat"
+* xaitedae - (verb, transitive) "to feed"
 * xie - (pronoun) "(singular) they", "he", "she", "it"
 * xiefen - (verb, transitive) "to give"
 * xoai - (particle) postposition for a rebellious act or event
+* xut - (adjective/adverb) "good (in quality)", "well"
