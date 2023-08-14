@@ -100,7 +100,7 @@ The cases are used as follows:
   * Example 2 (independent form): "Dei leip xae-ecoi-duei *duic kouofeiteir*.", "The bread is the cook's."
   * Example 3 ("to have"): "*Deic haus* soe-ecoi-duei ei puero duos.", "The house has two doors." (It is typical but not necessary to put the possessor to the beginning of the sentence.)
 * **Accusative**: Used for the direct object and with postpositions "four" ("for") and "koaxein" ("against" in the non-physical sense).
-  * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulais*.", "a tortoise bites a cop (defiantly)".
+  * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulaiseir*.", "a tortoise bites a cop (defiantly)".
   * Example 2 (with a postposition): "Mie xae-doia-paoi xien dain dienio-four.", "I (have to) do it for the child(ren)."
 * **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible.
   * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikeir*!", "Don't believe a politician!"
@@ -198,6 +198,8 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 | Conditional                   | lie         |
 | Interrogative                 | foe         |
 
+* The conditional is used in more different situations than in English. In counterfactual if-sentences it is used in both the if-clause and the then-clause. It may also be used in factual if-clauses instead of the indicative, if using an evidential wouldn't make sense. In that case the then-clause takes typically the inferential indicative mood to show the factuality. The conditional may also be used in restrictive relative clauses, again if no evidentyial makes sense.
+
 #### Tense- and aspect-like information
 In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently").
 
@@ -211,7 +213,7 @@ The infinitive is a verb without the pre- and postpositions given to a predicate
 * Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
 * Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai raiboud* miem-ka.", "The explosion was my work."
 
-Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are three types of participles in Shiofaioth: the active or nominative participle (suffix "-(i)fa"), and two passive participles (suffix "-(i)tafa"), one accusative and the other dative (suffix "-(i)mafa"). The initial i of the suffixes will be included if the verb eds in a consonant. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing.
+Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are three types of participles in Shiofaioth: the active or nominative participle (suffix "-(i)fa"), and two passive participles, one accusative (suffix "-(i)tafa") and the other dative (suffix "-(i)mafa"). The initial i of the suffixes will be included if the verb eds in a consonant. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing.
 * Example 1 (nominative participle): "ui moer baileifa", "a dancing man"
 * Example 2 (accusative participle): "ai cou baileitafa", "a show that is performed by dancing"
 * Example 3 (dative participle): "ui nais baileimafa", "a woman for whom a dance is performed"
@@ -226,9 +228,17 @@ A verbs meaning can be changed from "to do something" to "to cause someone/someh
 * Example 3 (ditransitive verb): "Xie xae-coudae-duei miem dain bailei siem.", "They made me perform the dance for you." ("cou", "to perform")
 * Example 4 (copular verb): "Fei ticai xae-ecoidae-duei faelid mien." "Tea makes me happy." ("ecoi", "to be")
 
-## Dictionary
-The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms.
+## Some vocabulary
+The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms. Some particles are a priori.
 
+## Sample texts
+
+### The piece of tortoise news
+Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaiseir, bue-ecoidae-duei faelid dai opia, daet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaiseir-ki duil Rio Hudson.
+
+People liking turtles better than cops will be pleased to learn a turtle bit off a cop's toe in the Hudson River. (The Daily Times, New Philadelphia, Ohio, July 9, 1924)
+
+## Dictionary
 * aikai - (adjective/adverb) "early"
 * amio - (noun, class 2) "friend"
 * aura - (adjective/adverb) "current", "currently", "now"
@@ -242,6 +252,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * cailid - (noun, class 3) "child", "physically immature person or creature"
 * coen - (adjective/adverb) "beautiful"
 * cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
+* daet - (particle) "that", subordinating conjunction
 * dai - (noun, class 3) "day"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
@@ -253,6 +264,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * faelid - (adjective/adverb) "happy"
 * feinier - (verb, intransitive) "to come"
 * fieme - (adjective/adverb) "previous", "previously"
+* fiheit - (verb, transitive) "to hate"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
 * fuosi - (noun, class 3) "year"
@@ -262,6 +274,8 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * heui - (particle) postposition for an action or event indirectly forced by conditions
 * hoix - (adjective/adverb) "tall", "high"
 * huomo - (noun, class 3) "human"
+* iroit - (verb, intransitive) "to detach"
+* iroitedae - (verb, transitive) "to detach"
 * ka - (particle) used for class 2 possession
 * kaofei - (noun, class 1) "coffee"
 * ki - (particle) used for class 1 possession
@@ -292,6 +306,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * muoehaei - (adjective/adverb) "late"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
+* opia - (verb, transitive) "to learn"
 * paod - (noun, class 2) "pet"
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
@@ -300,13 +315,15 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * pieteir - (noun, class 3) "drinker"
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
 * poulitaikeir - (noun, class 3) "politician"
-* poulais - (noun, class 3) "police (officer)", "cop"
+* poulais - (verb, transitive) "to police"
+* poulaiseir - (noun, class 3) "police (officer)", "cop"
 * puedaen - (verb, transitive) "can", "to be able", "to know (a skill)"
 * puero - (noun, class 1) "door"
 * raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
 * rein - (verb, transitive) "to rain", (noun, class 3) "rain"
 * repaer - (verb, transitive) "to repair", "to fix"
+* rio - (noun, class 3) "river"
 * rue - (particle) imperative preposition
 * seirou - (numeral) "zero"
 * siaruc - (noun, class 2) "sibling"
@@ -321,6 +338,7 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 * tiuraem - (noun, class 1) "prison"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
+* touras - (noun, class 1) "toe"
 * uicie - (verb, transitive) "to teach", "to educate"
 * uicieteir - (noun, class 2) "teacher"
 * uon - (numeral) "one"
