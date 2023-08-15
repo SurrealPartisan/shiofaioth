@@ -99,14 +99,14 @@ The cases are used as follows:
   * Example 1 (adjectival form): "dei haumeir *duic raiboudeir-ki*", "the hammer of the worker"
   * Example 2 (independent form): "Dei leip xae-ecoi-duei *duic kouofeiteir*.", "The bread is the cook's."
   * Example 3 ("to have"): "*Deic haus* soe-ecoi-duei ei puero duos.", "The house has two doors." (It is typical but not necessary to put the possessor to the beginning of the sentence.)
-* **Accusative**: Used for the direct object and with postpositions "four" ("for") and "koaxein" ("against" in the non-physical sense).
+* **Accusative**: Used for the direct object and with postpositions "four" ("for", "because of") and "koaxein" ("against" in the non-physical sense).
   * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulaiseir*.", "a tortoise bites a cop (defiantly)".
   * Example 2 (with a postposition): "Mie xae-doia-paoi xien dain dienio-four.", "I (have to) do it for the child(ren)."
 * **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible.
   * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikeir*!", "Don't believe a politician!"
   * Example 2 (indirect object together with a direct object): "Mie xae-xiefen-duei hein boun *duim koira*.", "I give a bone to the dog."
-  * Example 2 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
-  * Example 3 ("to have"): "*Duim suroiteir* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
+  * Example 3 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
+  * Example 4 ("to have"): "*Duim suroiteir* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
 * **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently (very often, even when a suitable postposition exists) or with one of the many postpositions as found in the table below.
   * Example 1 (independent): "Mie xae-ecoi-duei *dail haim*.", "I am home."
   * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pieteir-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
@@ -119,10 +119,11 @@ The cases are used as follows:
 | caid         | beside / next to                       | to beside      | from beside        |
 | nier         | near                                   | (to) near      | from near          |
 | kesik        | among                                  | (to) among     | from among         |
-|||||
+| ouer         | over                                   | (to) over      | from over          |
 |||||
 |||||
 | aeis         | as                                     | into (a state) | from (a state)     |
+| lainen       | as similar to / as -like               | into -like     | from -like         |
 | sait         | while / during (the whole duration of) | until          | since              |
 | duirin       | while / during (a part of)             | before         | after              |
 
@@ -160,7 +161,7 @@ When inflected for cases, the personal pronouns take directly the corresponding 
 Shiofaith has three relative pronouns. "Iokae" is a non-restrictive relative pronoun referring to a single noun phrase, "aokae" is its restrictive counterpart, and "miekae" refers to a whole proposition. They are inflected for cases. All relative clauses are separated with commas.
 * Example 1 (non-restrictive): "Mie xae-laik-duei dein haus muoc-ki, iokaen xae-suroit-duei duil fuosi fieme duirin.", "I like our house, which was built last year."
 * Example 2 (restrictive): "Dui moer, *aokae soe-muerairedae-fioi dain siaruc miem-ka*, soe-ecoi-paoi heil tiuraem-ien.", "The man who killed my sibling is in prison."
-* Example 3 (whole proposition):
+* Example 3 (whole proposition): "Dui aokua xae-ecoi-duei kailien, miekae miem xae-kieredae-duei suimar.", "The water is warm, which makes me want to swim."
 
 ### Adjectives and adverbs
 No distinction between adjectives and adverbs is made in Shiofaioth, they are one part of speech. Attributive adjectives come after the noun they describe, and adverbs come after the verb or adjective they describe.
@@ -231,18 +232,34 @@ A verbs meaning can be changed from "to do something" to "to cause someone/someh
 ## Some vocabulary
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms. Some particles are a priori.
 
-## Sample texts
+### Question words
+Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", where is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Similarly to yes-or-no questions, "ke"-questions typically use conditional or reportative indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
+
+### Derivational affixes
+The suffix "-(t)eir" is used to make an agent noun from a verb.
+
+## Sample texts and translations
 
 ### The piece of tortoise news
 Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaiseir, bue-ecoidae-duei faelid dai opia, daet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaiseir-ki duil Rio Hudson.
 
 People liking turtles better than cops will be pleased to learn a turtle bit off a cop's toe in the Hudson River. (The Daily Times, New Philadelphia, Ohio, July 9, 1924)
 
+### The first paragraph of *The Dispossessed*
+Xae-ecoi-duei hei seinae. Xien xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea, aokae bue-siuxa-duei ein raia, aeis. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae.
+
+There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall.
+
 ## Dictionary
+* aidea - (noun, class 2) "idea"
 * aikai - (adjective/adverb) "early"
+* aikuin - (noun, class 3) "grown-up", "adult"
+* ainoa - (adjective/adverb) "mere", "only", "just"
 * amio - (noun, class 2) "friend"
+* aokua - (noun, class 3) "water"
 * aura - (adjective/adverb) "current", "currently", "now"
 * ausoa - (verb) "to believe"
+* aux - (particle) "even", "too", "also"
 * bailei - (verb, transitive) "to dance", (noun, class 2) "dance"
 * baisen - (verb, transitive) (to bite)
 * bei - (particle) "of type", used for compounding nouns
@@ -250,6 +267,8 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * bue - (particle) inferential indicative preposition
 * bueno - (adjective/adverb) "(morally) good", "well"
 * cailid - (noun, class 3) "child", "physically immature person or creature"
+* cainen - (verb, copular) "to seem", "to look"
+* cauen - (verb, transitive) "to look", "to see", "to watch"
 * coen - (adjective/adverb) "beautiful"
 * cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
 * daet - (particle) "that", subordinating conjunction
@@ -269,6 +288,7 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * foe - (particle) interrogative preposition
 * fuosi - (noun, class 3) "year"
 * haim - (noun, class 2) "home"
+* hauen - (verb, transitive) "to cut", "to chop"
 * haumeir - (noun, class 1) "hammer"
 * haus - (noun, class 1) "house"
 * heui - (particle) postposition for an action or event indirectly forced by conditions
@@ -277,22 +297,28 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * iroit - (verb, intransitive) "to detach"
 * iroitedae - (verb, transitive) "to detach"
 * ka - (particle) used for class 2 possession
+* kailien - (adjective/adverb) "warm"
 * kaofei - (noun, class 1) "coffee"
+* karea - (adjective/adverb) "rough"
 * ki - (particle) used for class 1 possession
 * kiere - (verb, transitive) "to want"
 * kietab - (noun, class 1) "book"
+* kiuet - (verb, intransitive) "to climb"
+* kiui - (noun, class 1) "rock", "stone"
 * koaxein - (particle) "against" (in a non-physical sense)
 * koc - (noun, class 3) "cat"
 * koira - (noun, class 3) "dog"
 * kouofeit - (verb, transitive) "to cook"
 * kouofeiteir - (noun, class 3) "cook"
 * kuin - (particle) "than", "like", "as"
+* kurous - (verb, intransitive) "to cross"
 * laik - (verb, transitive) "to like"
 * lain - (verb, transitive) "to loan", "to borrow"
 * les - (adjective/adverb) "less"
 * lesit - (adjective/adverb) "least"
 * leikiae - (verb, transitive) "to play"
 * lie - (particle) conditional preposition
+* linea - (noun, class 1) "line"
 * liraeria - (noun, class 1) "library"
 * leip - (noun, class 1) bread
 * loucion - (noun, class 3) "explosion"
@@ -300,6 +326,7 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * masit - (adjective/adverb) "most"
 * mie - (pronoun) "I"
 * moer - (noun, class 3) "man"
+* moura - (verb, transitive) "to mortar", "to mason"
 * muerair - (verb, intransitive) "to die", (noun, class 2) "death"
 * muerairedae - (verb, transitive) "to kill"
 * mui - (adjective/adverb) "multiple"
@@ -311,6 +338,7 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
 * peib - (noun, class 3) "a non-binary person"
+* peuroa - (particle) "but"
 * piet - (verb, transitive) "to drink"
 * pieteir - (noun, class 3) "drinker"
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
@@ -318,21 +346,28 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * poulais - (verb, transitive) "to police"
 * poulaiseir - (noun, class 3) "police (officer)", "cop"
 * puedaen - (verb, transitive) "can", "to be able", "to know (a skill)"
-* puero - (noun, class 1) "door"
+* puero - (noun, class 1) "door", "gate"
+* raeutua - (verb, intransitive) "to degenerate"
+* raia - (noun, class 2) "boundary", "limit", "border"
 * raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
 * raiboudeir - (noun, class 3) "worker"
+* real - (adjective/adverb) "real"
 * rein - (verb, transitive) "to rain", (noun, class 3) "rain"
 * repaer - (verb, transitive) "to repair", "to fix"
 * rio - (noun, class 3) "river"
 * rue - (particle) imperative preposition
+* seinae - (noun, class 1) "wall"
 * seirou - (numeral) "zero"
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
 * silaif - (verb, intransitive) "to sleep"
+* siuxa - (verb, transitive) "to represent", "to symbolize"
 * soe - (particle) reportative indicative preposition
 * soudiu - (noun, class 1) "sausage"
+* suimar - (verb, intransitive) "to swim" 
 * suroit - (verb, transitive) "to build", "to construct"
 * suroiteir - (noun, class 3) "builder", "construction worker"
+* taerekeae - (adjective/adverb) "important"
 * teik - (verb, transitive) "to take"
 * ticai - (noun, class 1) "tea"
 * tiuraem - (noun, class 1) "prison"
@@ -345,6 +380,7 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 * xae - (particle) firsthand indicative preposition
 * xait - (verb, transitive) "to eat"
 * xaitedae - (verb, transitive) "to feed"
+* xeometeria - (noun, class 3) "geometry"
 * xie - (pronoun) "(singular) they", "he", "she", "it"
 * xiefen - (verb, transitive) "to give"
 * xoai - (particle) postposition for a rebellious act or event
