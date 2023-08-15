@@ -370,6 +370,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * taerekeae - (adjective/adverb) "important"
 * teik - (verb, transitive) "to take"
 * ticai - (noun, class 1) "tea"
+* tie - (noun, class 3) "way", "road"
 * tiuraem - (noun, class 1) "prison"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
