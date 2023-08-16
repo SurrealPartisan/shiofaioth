@@ -246,7 +246,7 @@ Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaiseir, bue-ecoidae-
 People liking turtles better than cops will be pleased to learn a turtle bit off a cop's toe in the Hudson River. (The Daily Times, New Philadelphia, Ohio, July 9, 1924)
 
 ### The first paragraph of *The Dispossessed*
-Xae-ecoi-duei hei seinae. Xien xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea, aokae bue-siuxa-duei ein raia, aeis. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae.
+Xae-ecoi-duei hei seinae. Xie xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea, aokae bue-siuxa-duei ein raia, aeis. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae.
 
 There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall.
 
