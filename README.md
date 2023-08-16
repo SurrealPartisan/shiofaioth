@@ -93,7 +93,7 @@ Shiofaioth has nine noun cases, each marked with an article suffix as listed in 
 
 The cases are used as follows:
 * **Nominative**: Used for the subject of a sentence, and often for a predicative.
-  * Example 1 (subject): "*Dai uicieteir* xae-bailei-duei.", "The teacher is dancing."
+  * Example 1 (subject): "*Dai opiadaeteir* xae-bailei-duei.", "The teacher is dancing."
   * Example 2 (predicative): "Mie xae-ecoi-duei *hui peib*", "I am a non-binary person."
 * **Genitive** Used for class 1 possession, either in adjectival form with the postposition "ki" or independently (usually as a predicative) without it. The independent form with the verb "ecoi" can be used to translate "to have".
   * Example 1 (adjectival form): "dei haumeir *duic raiboudeir-ki*", "the hammer of the worker"
@@ -117,9 +117,9 @@ The cases are used as follows:
 | oan          | on                                     | onto           | from the top of    |
 | lou          | below/under                            | to below       | from below         |
 | caid         | beside / next to                       | to beside      | from beside        |
-| nier         | near                                   | (to) near      | from near          |
+| nier         | near                                   | towards        | away from          |
 | kesik        | among                                  | (to) among     | from among         |
-| ouer         | over                                   | (to) over      | from over          |
+| ouer         | over/above                             | (to) over      | from over          |
 |||||
 |||||
 | aeis         | as                                     | into (a state) | from (a state)     |
@@ -156,6 +156,12 @@ The personal pronouns are listed in the following table:
 When inflected for cases, the personal pronouns take directly the corresponding article suffix.
 * Example 1: "Mie xae-bailei-duei *suom*.", "I dance for you."
 * Example 2: "Sie xae-teik-duei dein kietab *xiex*.", "You take the book from her."
+
+#### Demonstrative pronouns
+Shiofaioth has two demonstrative pronouns, the proximal "tae" ("this", "these") and the distal "tuo" ("that", "those"). They inflect in cases and can take postpositions, so many phrases can be derived. Locative gives "here" and "there", respectively, and with "duirin" "now" and "then". More on the time descriptions will be exxplained in the tense-like information subsection of the verbs section. The demonstrative pronouns may be used independently or adjectivally.
+
+#### Indefinite pronouns
+Shiofaioth has three indefinite pronouns: "iede" ("everything", "everyone", "every"), "auxo" ("something", "someone", "some") and "eine" ("anything", "anyone", "any"). Like the demonstrative pronouns, they inflect in cases and can be used both independently and adjectivally. Additionally, "eine" can be negated to "eine-naiet" ("nothing", "no one", "no"). However, one must be clear on what one negates. "Eine-naiet xae-ecoi-duei xuatit" means "nothing is enough", but "eine xae-ecoi-duei naiet xuatit" means "not (just) anything is enough".
 
 #### Relative pronouns
 Shiofaith has three relative pronouns. "Iokae" is a non-restrictive relative pronoun referring to a single noun phrase, "aokae" is its restrictive counterpart, and "miekae" refers to a whole proposition. They are inflected for cases. All relative clauses are separated with commas.
@@ -202,7 +208,7 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 * The conditional is used in more different situations than in English. In counterfactual if-sentences it is used in both the if-clause and the then-clause. It may also be used in factual if-clauses instead of the indicative, if using an evidential wouldn't make sense. In that case the then-clause takes typically the inferential indicative mood to show the factuality. The conditional may also be used in restrictive relative clauses, again if no evidentyial makes sense.
 
 #### Tense- and aspect-like information
-In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently").
+In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai-mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei-mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently"). These phrases are synonymous to "taet-duirin", "taex-duirin" and "tael-duirin", respectively. However, tehre is a nuance difference in immediacy. Whereas "aura" is more generally "currently", "tael-duirin" is more specifically "at this very moment". "Taet-duirin" and "taex-duirin" are more immediately before and after this moment than "aikai-mas" and "muoehaei-mas", and they can be contrasted in text or discussion.
 
 #### Impersonal verbs, passive-like form and detransitive
 There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasize the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria". A passive with an agent may also be translated by bringing the object to the front and leaving the subject to the last position.
@@ -233,7 +239,7 @@ A verbs meaning can be changed from "to do something" to "to cause someone/someh
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms. Some particles are a priori.
 
 ### Question words
-Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", where is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Similarly to yes-or-no questions, "ke"-questions typically use conditional or reportative indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
+Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Similarly to yes-or-no questions, "ke"-questions typically use conditional or reportative indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
 
 ### Derivational affixes
 The suffix "-(t)eir" is used to make an agent noun from a verb.
@@ -246,9 +252,9 @@ Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaiseir, bue-ecoidae-
 People liking turtles better than cops will be pleased to learn a turtle bit off a cop's toe in the Hudson River. (The Daily Times, New Philadelphia, Ohio, July 9, 1924)
 
 ### The first paragraph of *The Dispossessed*
-Xae-ecoi-duei hei seinae. Xie xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea, aokae bue-siuxa-duei ein raia, aeis. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae.
+Xae-ecoi-duei hei seinae. Xie xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea, aokae bue-siuxa-duei ein raia, aeis. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae. Fail xieneraicion sieben sait eine-naiet duil maila soe-ecoi-duei taerekeae mas kuin dei seinae tuo.
 
-There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall.
+There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall. (The Dispossessed, Ursula K. Le Guin, 1974)
 
 ## Dictionary
 * aidea - (noun, class 2) "idea"
@@ -260,6 +266,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * aura - (adjective/adverb) "current", "currently", "now"
 * ausoa - (verb) "to believe"
 * aux - (particle) "even", "too", "also"
+* auxo - (pronoun) "some", "something", "someone"
 * bailei - (verb, transitive) "to dance", (noun, class 2) "dance"
 * baisen - (verb, transitive) (to bite)
 * bei - (particle) "of type", used for compounding nouns
@@ -280,6 +287,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * duos - (numeral) "two"
 * ecoi - (verb, copular) "to be"
 * eiciae - (verb, transitive) "to look for", "to search"
+* eine - (pronoun) "any", "anything", "anyone"
 * faelid - (adjective/adverb) "happy"
 * feinier - (verb, intransitive) "to come"
 * fieme - (adjective/adverb) "previous", "previously"
@@ -294,6 +302,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * heui - (particle) postposition for an action or event indirectly forced by conditions
 * hoix - (adjective/adverb) "tall", "high"
 * huomo - (noun, class 3) "human"
+* iede - (pronoun) "every", "everything", "everyone"
 * iroit - (verb, intransitive) "to detach"
 * iroitedae - (verb, transitive) "to detach"
 * ka - (particle) used for class 2 possession
@@ -322,6 +331,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * liraeria - (noun, class 1) "library"
 * leip - (noun, class 1) bread
 * loucion - (noun, class 3) "explosion"
+* maila - (noun, class 3) "the world"
 * mas - (adjective/adverb) "more"
 * masit - (adjective/adverb) "most"
 * mie - (pronoun) "I"
@@ -334,6 +344,8 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
 * opia - (verb, transitive) "to learn"
+* opiadae - (verb, transitive) "to teach", "to educate"
+* opiadaeteir - (noun, class 2) "teacher"
 * paod - (noun, class 2) "pet"
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
@@ -360,6 +372,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * seirou - (numeral) "zero"
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
+* sieben - (numeral) "seven"
 * silaif - (verb, intransitive) "to sleep"
 * siuxa - (verb, transitive) "to represent", "to symbolize"
 * soe - (particle) reportative indicative preposition
@@ -367,6 +380,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * suimar - (verb, intransitive) "to swim" 
 * suroit - (verb, transitive) "to build", "to construct"
 * suroiteir - (noun, class 3) "builder", "construction worker"
+* tae - (pronoun) "this", "these"
 * taerekeae - (adjective/adverb) "important"
 * teik - (verb, transitive) "to take"
 * ticai - (noun, class 1) "tea"
@@ -375,8 +389,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
 * touras - (noun, class 1) "toe"
-* uicie - (verb, transitive) "to teach", "to educate"
-* uicieteir - (noun, class 2) "teacher"
+* tuo - (pronoun) "that" (demonstrative pronoun), "those"
 * uon - (numeral) "one"
 * xae - (particle) firsthand indicative preposition
 * xait - (verb, transitive) "to eat"
@@ -384,5 +397,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * xeometeria - (noun, class 3) "geometry"
 * xie - (pronoun) "(singular) they", "he", "she", "it"
 * xiefen - (verb, transitive) "to give"
+* xieneraicion - (noun, class 2) "generation"
 * xoai - (particle) postposition for a rebellious act or event
+* xuatit - (adverb) "enough"
 * xut - (adjective/adverb) "good (in quality)", "well"
