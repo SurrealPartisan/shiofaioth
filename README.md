@@ -178,6 +178,42 @@ Comparison of adjectives and adverbs is done with words "mas" ("more"), "masit" 
 * Example 2 (equative): "Sie xae-bailei-duei *coen kuin* mie.", "You dance as beautifully as I do."
 * Example 3 (superlative): "Mie xae-ecoi-duei *hoix-masit* muol-kesik.", "I am the tallest of us."
 
+### Numerals
+Numerals work mainly like adjectives, coming after a noun that they quantify.
+
+#### Cardinal numbers
+The basic number words are listend in the following table:
+
+| Number                       | In Shiofaioth |
+| ---------------------------: | :-----------: |
+| 0                            | seirou        |
+| 1                            | uon           |
+| 2                            | duos          |
+| 3                            | ciome         |
+| 4                            | neliae        |
+| 5                            | faif          |
+| 6                            | seis          |
+| 7                            | sieben        |
+| 8                            | fosiem        |
+| 9                            | nao           |
+| 10                           | dies          |
+| 100                          | cien          |
+| 1000                         | tuhat         |
+| 1000 000                     | milion        |
+| 1000 000 000                 | miliarid      |
+| 1000 000 000 000             | bilion        |
+| 1000 000 000 000 000         | biliarid      |
+| 1000 000 000 000 000 000     | tirilion      |
+| 1000 000 000 000 000 000 000 | tiriliarid    |
+
+As can be seen, Shiofaioth uses the long scale in large number naming.
+
+Compound numerals are formed with "ia" between the orders of magnitude. The name of the order of magnitude comes before the amount of it. Examples:
+* "dies-ia-faif", 15
+* "dies-duos", 20
+* "cien-ciome-ia-dies-sieben-ia-fosiem", 378
+* "tuhat-cien-faif-ia-tuhat-dies-neliae", 540 000
+
 ### Verbs
 All predicates in Shiofaioth have an obligatory preposition indicating mood and in the case of indicative mood also evidentiality, and an obligatory postposition indicating the voluntariness of the action. Tense- and aspect-like information may be indicated with non-obligatory particles, additional verbes etc.
 
