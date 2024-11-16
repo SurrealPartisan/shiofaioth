@@ -225,6 +225,7 @@ Ordinal numbers are formed with the suffix -(i)moi, which is added to the first 
 * "uonimoi", (the) first
 * "naomoi", (the) ninth
 * "cienimoi-duos-ia-diesimoi-neliae-ia-siebenimoi", (the) 247th
+* 
 With digits, the ordinal numbers are written with "moi" added to the end, so the previous examples would be "1moi", "9moi" and "247moi".
 
 ### Verbs
