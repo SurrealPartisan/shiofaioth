@@ -90,26 +90,27 @@ Shiofaioth has nine noun cases, each marked with an article suffix as listed in 
 | Separative   | -x     |
 | Comitative   | -k     |
 | Instrumental | -p     |
+| Vocative     | -f     |
 
 The cases are used as follows:
 * **Nominative**: Used for the subject of a sentence, and often for a predicative.
-  * Example 1 (subject): "*Dai opiadaeteir* xae-bailei-duei.", "The teacher is dancing."
+  * Example 1 (subject): "*Dai opiadaefa* xae-bailei-duei.", "The teacher is dancing."
   * Example 2 (predicative): "Mie xae-ecoi-duei *hui peib*", "I am a non-binary person."
 * **Genitive** Used for class 1 possession, either in adjectival form with the postposition "ki" or independently (usually as a predicative) without it. The independent form with the verb "ecoi" can be used to translate "to have".
-  * Example 1 (adjectival form): "dei haumeir *duic raiboudeir-ki*", "the hammer of the worker"
-  * Example 2 (independent form): "Dei leip xae-ecoi-duei *duic kouofeiteir*.", "The bread is the cook's."
+  * Example 1 (adjectival form): "dei haumeir *duic raiboudifa-ki*", "the hammer of the worker"
+  * Example 2 (independent form): "Dei leip xae-ecoi-duei *duic kouofeitifa*.", "The bread is the cook's."
   * Example 3 ("to have"): "*Deic haus* soe-ecoi-duei ei puero duos.", "The house has two doors." (It is typical but not necessary to put the possessor to the beginning of the sentence.)
 * **Accusative**: Used for the direct object and with postpositions "four" ("for", "because of") and "koaxein" ("against" in the non-physical sense).
-  * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulaiseir*.", "a tortoise bites a cop (defiantly)".
+  * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulaisifa*.", "a tortoise bites a cop (defiantly)".
   * Example 2 (with a postposition): "Mie xae-doia-paoi xien dain dienio-four.", "I (have to) do it for the child(ren)."
 * **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible.
-  * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikeir*!", "Don't believe a politician!"
+  * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikifa*!", "Don't believe a politician!"
   * Example 2 (indirect object together with a direct object): "Mie xae-xiefen-duei hein boun *duim koira*.", "I give a bone to the dog."
   * Example 3 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
-  * Example 4 ("to have"): "*Duim suroiteir* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
+  * Example 4 ("to have"): "*Duim suroitifa* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
 * **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently (very often, even when a suitable postposition exists) or with one of the many postpositions as found in the table below.
   * Example 1 (independent): "Mie xae-ecoi-duei *dail haim*.", "I am home."
-  * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pieteir-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
+  * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pietifa-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
 
 | Postposition | Locative meaning                       | Lative meaning | Separative meaning |
 | :----------: | :------------------------------------: | :------------: | :----------------: |
@@ -133,6 +134,8 @@ The cases are used as follows:
 * **Instrumental**: used to tell with which tool or by which means an action was performed. Like with comitative, the postposition "naiet" can be used to tell the deed was done without something.
   * Example 1 (positive): "Sie bue-feinier-fioi *eip torein*.", "You seem to have come by train."
   * Example 2 (negative): "Mie xae-repaer-duei xien *eip haumeir naiet*.", "I repair it without a hammer."
+* **Vocative**: used to address the listener.
+  * Example: "*Daif paurein*, mie xae-ecoi-heui naelai!", "Parent, I am hungry!"
 
 #### Number
 Nouns are not marked for number, and by default the number of a noun is inferred from context. However, quantifiers can be used to make the number explicit. One uses for example the adjective "mui" ("multiple") to make an explicit plural, and the numeral "uon" ("one") for explicit singular.
@@ -178,6 +181,9 @@ Comparison of adjectives and adverbs is done with words "mas" ("more"), "masit" 
 * Example 2 (equative): "Sie xae-bailei-duei *coen kuin* mie.", "You dance as beautifully as I do."
 * Example 3 (superlative): "Mie xae-ecoi-duei *hoix-masit* muol-kesik.", "I am the tallest of us."
 
+#### Adjectives as nouns
+Adjectives can be converted into nouns (meaning that which is described by the adjective) simply by adding an article. The noun class depends on the context.
+
 ### Numerals
 Numerals work mainly like adjectives, coming after a noun that they quantify.
 
@@ -208,11 +214,18 @@ The basic number words are listend in the following table:
 
 As can be seen, Shiofaioth uses the long scale in large number naming.
 
-Compound numerals are formed with "ia" between the orders of magnitude. The name of the order of magnitude comes before the amount of it. Examples:
+Compound numerals are formed with "ia" between the orders of magnitude. The name of the order of magnitude comes before the amount of it (none if one). Examples:
 * "dies-ia-faif", 15
 * "dies-duos", 20
 * "cien-ciome-ia-dies-sieben-ia-fosiem", 378
 * "tuhat-cien-faif-ia-tuhat-dies-neliae", 540 000
+
+#### Ordinal numbers
+Ordinal numbers are formed with the suffix -(i)moi, which is added to the first word of each order of magnitude. Examples:
+* "uonimoi", (the) first
+* "naomoi", (the) ninth
+* "cienimoi-duos-ia-diesimoi-neliae-ia-siebenimoi", (the) 247th
+With digits, the ordinal numbers are written with "moi" added to the end, so the previous examples would be "1moi", "9moi" and "247moi".
 
 ### Verbs
 All predicates in Shiofaioth have an obligatory preposition indicating mood and in the case of indicative mood also evidentiality, and an obligatory postposition indicating the voluntariness of the action. Tense- and aspect-like information may be indicated with non-obligatory particles, additional verbes etc.
@@ -231,17 +244,17 @@ Actions are divided to five levels of voluntariness. The postpositions correspon
 #### Mood and evidentiality
 The predicate prepositions for mood and evidentiality are listed in the following table:
 
-| Mood, evidential              | Preposition |
-| ----------------------------: | :---------: |
-| Indicative, firsthand         | xae         |
-| Indicative, general knowledge | die         |
-| Indicative, inferential       | bue         |
-| Indicative, reportative       | soe         |
-| Imperative                    | rue         |
-| Conditional                   | lie         |
-| Interrogative                 | foe         |
+| Mood, evidential                   | Preposition |
+| ---------------------------------: | :---------: |
+| Indicative, firsthand (or opinion) | xae         |
+| Indicative, general knowledge      | die         |
+| Indicative, inferential            | bue         |
+| Indicative, reportative            | soe         |
+| Imperative                         | rue         |
+| Conditional                        | lie         |
+| Interrogative                      | foe         |
 
-* The conditional is used in more different situations than in English. In counterfactual if-sentences it is used in both the if-clause and the then-clause. It may also be used in factual if-clauses instead of the indicative, if using an evidential wouldn't make sense. In that case the then-clause takes typically the inferential indicative mood to show the factuality. The conditional may also be used in restrictive relative clauses, again if no evidentyial makes sense.
+* The conditional is used in more different situations than in English. In counterfactual if-sentences it is used in both the if-clause and the then-clause. It may also be used in factual if-clauses instead of the indicative, if using an evidential wouldn't make sense. In that case the then-clause takes typically the inferential indicative mood to show the factuality. The conditional may also be used in restrictive relative clauses, again if no evidential makes sense.
 
 #### Tense- and aspect-like information
 In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai-mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei-mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently"). These phrases are synonymous to "taet-duirin", "taex-duirin" and "tael-duirin", respectively. However, tehre is a nuance difference in immediacy. Whereas "aura" is more generally "currently", "tael-duirin" is more specifically "at this very moment". "Taet-duirin" and "taex-duirin" are more immediately before and after this moment than "aikai-mas" and "muoehaei-mas", and they can be contrasted in text or discussion.
@@ -275,15 +288,15 @@ A verbs meaning can be changed from "to do something" to "to cause someone/someh
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms. Some particles are a priori.
 
 ### Question words
-Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Similarly to yes-or-no questions, "ke"-questions typically use conditional or reportative indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
+Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Similarly to yes-or-no questions, "ke"-questions typically use conditional or inferential indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
 
 ### Derivational affixes
-The suffix "-(t)eir" is used to make an agent noun from a verb.
+
 
 ## Sample texts and translations
 
 ### The piece of tortoise news
-Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaiseir, bue-ecoidae-duei faelid dai opia, daet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaiseir-ki duil Rio Hudson.
+Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaisifa, bue-ecoidae-duei faelid dai opia, daet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaisifa-ki duil Rio Hudson.
 
 People liking turtles better than cops will be pleased to learn a turtle bit off a cop's toe in the Hudson River. (The Daily Times, New Philadelphia, Ohio, July 9, 1924)
 
@@ -291,6 +304,26 @@ People liking turtles better than cops will be pleased to learn a turtle bit off
 Xae-ecoi-duei hei seinae. Xie xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea aeis, aokae bue-siuxa-duei ein raia. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae. Fail xieneraicion sieben sait eine-naiet duil maila soe-ecoi-duei taerekeae mas kuin dei seinae tuo.
 
 There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall. (The Dispossessed, Ursula K. Le Guin, 1974)
+
+### The wolf and the dog (incomplete)
+Dui fulif ia dui koira
+
+Hui fulif naelai xae-feinier-duei huit koira boada caid ia xae-seinoa-duei: "Daif amio xut, mie xae-ecoi-heui naelai soain, edaet mie xae-puedain-heui naiet silaif. Peuroa sie xae-ecoi-duei xirocoi ia dik. Kex sie bue-cepacu-duei dein xait siec-ki? Kel sie bue-risaid-duei? Kel sie bue-xait-duei?"
+
+The wolf and the dog
+
+A hungry wolf came to an old dog and said: "Good Friend, I am so hungry that I cannot sleep.  You, however are big and fat.  Where do you get your food? Where do you live?  Where do you eat?"
+
+"I am the servant of my master," answered the dog.  "I serve my master, I guard my master's house.  Therefore, my master gives me as much to eat as I want."
+
+Then the wolf said, "I live very poorly.  Day and night I roam through the woods and fields and find nothing to eat for my wife and my children.  I can no longer live this way.  My wife and children are dying of hunger. Therefore, I shall also become a servant of men and guard their houses."
+
+The dog and the wolf ran together through the woods to the dog's house. Suddenly the wolf sees the dog's neck.  He is astonished and says:  "I see your neck is without hair.  Do all dogs have necks without hair? "
+
+"No," answered the dog.  "Not all dogs.  I wear a chain in the daytime. During the day I lay in front of my master's house on a chain.  The chain is iron and iron is hard.  Therefore I have no hair on my neck.  But at night I am free.  During the night I roam wherever I wish."
+
+"Dear brother," said the wolf to the dog.  "Hunger is hard, but the chain is harder.  I wear no chain and will not wear one.  Better that I die from hunger with my wife and children.  Run alone back to your master.  It is better to be hungry than fat; it is better to be free than to wear a chain. Farewell." (From an old German Reader (circa 1933), translated to English by David The Grey Wizard. [Source.](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind9912D&L=conlang&P=R3500))
+
 
 ## Dictionary
 * aidea - (noun, class 2) "idea"
@@ -306,30 +339,42 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * bailei - (verb, transitive) "to dance", (noun, class 2) "dance"
 * baisen - (verb, transitive) (to bite)
 * bei - (particle) "of type", used for compounding nouns
+* biliarid - (numeral) "quadrillion" (American), "thousand billion" (British)
+* bilion - (numeral) "trillion" (American), "billion" (British)
+* boada - (adjective/adverb) "old"
 * boun - (noun, class 1) "bone"
 * bue - (particle) inferential indicative preposition
 * bueno - (adjective/adverb) "(morally) good", "well"
 * cailid - (noun, class 3) "child", "physically immature person or creature"
 * cainen - (verb, copular) "to seem", "to look"
 * cauen - (verb, transitive) "to look", "to see", "to watch"
+* cepacu - (verb) "to get", "to acquire", "to obtain"
+* cien - (numeral) "hundred"
+* ciome - (numeral) "three"
 * coen - (adjective/adverb) "beautiful"
 * cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
 * daet - (particle) "that", subordinating conjunction
 * dai - (noun, class 3) "day"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
+* dies - (numeral) "ten"
+* dik - (adjective/adverb) "thick", "fat"
 * doia - (verb, transitive) "to do"
 * duei - (particle) postposition for voluntary action or naturally occurring event
 * duos - (numeral) "two"
 * ecoi - (verb, copular) "to be"
+* edaet - (particle) "that"
 * eiciae - (verb, transitive) "to look for", "to search"
 * eine - (pronoun) "any", "anything", "anyone"
 * faelid - (adjective/adverb) "happy"
+* faif - (numeral) "five"
 * feinier - (verb, intransitive) "to come"
 * fieme - (adjective/adverb) "previous", "previously"
 * fiheit - (verb, transitive) "to hate"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
+* fosiem - (numeral) "eight"
+* fulif - (noun, class 3) "wolf"
 * fuosi - (noun, class 3) "year"
 * haim - (noun, class 2) "home"
 * hauen - (verb, transitive) "to cut", "to chop"
@@ -354,7 +399,7 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * koc - (noun, class 3) "cat"
 * koira - (noun, class 3) "dog"
 * kouofeit - (verb, transitive) "to cook"
-* kouofeiteir - (noun, class 3) "cook"
+* kouofeitifa - (noun, class 3) "cook"
 * kuin - (particle) "than", "like", "as"
 * kurous - (verb, intransitive) "to cross"
 * laik - (verb, transitive) "to like"
@@ -371,69 +416,82 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 * mas - (adjective/adverb) "more"
 * masit - (adjective/adverb) "most"
 * mie - (pronoun) "I"
+* miliarid - (numeral) "billion" (American), "thousand million" (British)
+* milion - (numeral) "million"
 * moer - (noun, class 3) "man"
 * moura - (verb, transitive) "to mortar", "to mason"
 * muerair - (verb, intransitive) "to die", (noun, class 2) "death"
 * muerairedae - (verb, transitive) "to kill"
 * mui - (adjective/adverb) "multiple"
 * muoehaei - (adjective/adverb) "late"
+* naelai - (adjective/adverb) "hungry", "hungrily"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
+* nao - (numeral) "nine"
+* neliae - (numeral) "four"
 * opia - (verb, transitive) "to learn"
 * opiadae - (verb, transitive) "to teach", "to educate"
-* opiadaeteir - (noun, class 2) "teacher"
+* opiadaefa - (noun, class 2) "teacher"
 * paod - (noun, class 2) "pet"
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
 * peib - (noun, class 3) "a non-binary person"
 * peuroa - (particle) "but"
 * piet - (verb, transitive) "to drink"
-* pieteir - (noun, class 3) "drinker"
+* pietifa - (noun, class 3) "drinker"
 * poulitaik - (noun, class 3) "politics", (verb) "to do politics"
-* poulitaikeir - (noun, class 3) "politician"
+* poulitaikifa - (noun, class 3) "politician"
 * poulais - (verb, transitive) "to police"
-* poulaiseir - (noun, class 3) "police (officer)", "cop"
+* poulaisifa - (noun, class 3) "police (officer)", "cop"
 * puedaen - (verb, transitive) "can", "to be able", "to know (a skill)"
 * puero - (noun, class 1) "door", "gate"
 * raeutua - (verb, intransitive) "to degenerate"
 * raia - (noun, class 2) "boundary", "limit", "border"
 * raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
-* raiboudeir - (noun, class 3) "worker"
+* raiboudifa - (noun, class 3) "worker"
 * real - (adjective/adverb) "real"
 * rein - (verb, transitive) "to rain", (noun, class 3) "rain"
 * repaer - (verb, transitive) "to repair", "to fix"
 * rio - (noun, class 3) "river"
+* risaid - (verb, intransitive) "to live (in a place)", "to reside"
 * rue - (particle) imperative preposition
 * seinae - (noun, class 1) "wall"
+* seinoa - (verb, transitive) "to say"
 * seirou - (numeral) "zero"
+* seis - (numeral) "six"
 * siaruc - (noun, class 2) "sibling"
 * sie - (pronoun) "(singular) you"
 * sieben - (numeral) "seven"
 * silaif - (verb, intransitive) "to sleep"
 * siuxa - (verb, transitive) "to represent", "to symbolize"
+* soain - (adjective/adverb) - "so", "like", "to the extent", "similar"
 * soe - (particle) reportative indicative preposition
 * soudiu - (noun, class 1) "sausage"
 * suimar - (verb, intransitive) "to swim" 
 * suroit - (verb, transitive) "to build", "to construct"
-* suroiteir - (noun, class 3) "builder", "construction worker"
+* suroitifa - (noun, class 3) "builder", "construction worker"
 * tae - (pronoun) "this", "these"
 * taerekeae - (adjective/adverb) "important"
 * teik - (verb, transitive) "to take"
 * ticai - (noun, class 1) "tea"
 * tie - (noun, class 3) "way", "road"
+* tiriliarid - (numeral) "sextillion" (American), "thousand trillion" (British)
+* tirilion - (numeral) "quintillion" (American), "trillion" (British)
 * tiuraem - (noun, class 1) "prison"
 * torein - (noun, class 1) "train"
 * toroic - (noun, class 3) "tortoise", "turtle"
 * touras - (noun, class 1) "toe"
+* tuhat - (numeral) "thousand"
 * tuo - (pronoun) "that" (demonstrative pronoun), "those"
 * uon - (numeral) "one"
 * xae - (particle) firsthand indicative preposition
-* xait - (verb, transitive) "to eat"
+* xait - (verb, transitive) "to eat", (noun, class 1) "food"
 * xaitedae - (verb, transitive) "to feed"
 * xeometeria - (noun, class 3) "geometry"
 * xie - (pronoun) "(singular) they", "he", "she", "it"
 * xiefen - (verb, transitive) "to give"
 * xieneraicion - (noun, class 2) "generation"
+* xirocoi - (adjective/adverb) "big", "large"
 * xoai - (particle) postposition for a rebellious act or event
 * xuatit - (adverb) "enough"
 * xut - (adjective/adverb) "good (in quality)", "well"
