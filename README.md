@@ -313,7 +313,7 @@ Xae-ecoi-duei hei seinae. Xie xae-cainen-duei naiet taerekeae. Xien bue-suroit-f
 
 There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall. (The Dispossessed, Ursula K. Le Guin, 1974)
 
-### The wolf and the dog (incomplete)
+### The wolf and the dog
 Dui fulif ia dui koira
 
 Hui fulif naelai xae-feinier-duei huit koira boada caid ia xae-seinoa-duei: "Daif amio xut, mie xae-ecoi-heui naelai soain, edaet mie xae-puedain-heui naiet silaif. Peuroa sie xae-ecoi-duei xirocoi ia dik. Kex sie bue-cepacu-duei dein xait siec-ki? Kel sie bue-risaid-duei? Kel sie bue-xait-duei?"
