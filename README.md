@@ -112,23 +112,26 @@ The cases are used as follows:
   * Example 1 (independent): "Mie xae-ecoi-duei *dail haim*.", "I am home."
   * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pietifa-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
 
-| Postposition | Locative meaning                       | Lative meaning | Separative meaning |
-| :----------: | :------------------------------------: | :------------: | :----------------: |
-| ien          | in                                     | into           | from inside of     |
-| oan          | on                                     | onto           | from the top of    |
-| lou          | below/under                            | to below       | from below         |
-| caid         | beside / next to                       | to beside      | from beside        |
-| nier         | near                                   | towards        | away from          |
-| kesik        | among                                  | (to) among     | from among         |
-| ouer         | over/above                             | (to) over      | from over          |
+| Postposition | Locative meaning                       | Lative meaning  | Separative meaning |
+| :----------: | :------------------------------------: | :-------------: | :----------------: |
+| ien          | in                                     | into            | from inside of     |
+| oan          | on                                     | onto            | from the top of    |
+| lou          | below/under                            | to below        | from below         |
+| caid         | beside / next to                       | to beside       | from beside        |
+| fior         | in front of                            | to the front of | from the front of  |
+| bihain       | behind                                 | (to) behind     | from behind        |
+| nier         | near                                   | towards         | away from          |
+| kesik        | among                                  | (to) among      | from among         |
+| ouer         | over/above                             | (to) over       | from over          |
+| durix        | inside going through                   | (to) through    | (from) through     |
 |||||
 |||||
-| aeis         | as                                     | into (a state) | from (a state)     |
-| lainen       | as similar to / as -like               | into -like     | from -like         |
-| sait         | while / during (the whole duration of) | until          | since              |
-| duirin       | while / during (a part of)             | before         | after              |
+| aeis         | as                                     | into (a state)  | from (a state)     |
+| lainen       | as similar to / as -like               | into -like      | from -like         |
+| sait         | while / during (the whole duration of) | until           | since              |
+| duirin       | while / during (a part of)             | before          | after              |
 
-* **Comitative**: Used for accompaniment, telling that action is performed together with someone (or rarely something). The postposition "naiet" ("no") can be used to tell something is done without someone.
+* **Comitative**: Used for accompaniment, telling that action is performed together with someone or accompanied by something. The postposition "naiet" ("no") can be used to tell something is done without someone.
   * Example 1 (positive): "Dui cailid xae-leikiae-duei *haik paurein*.", "The child plays with a parent."
   * Example 2 (negative): "Mie xae-feinier-heui *haik amio naiet*.", "I come without friends." (Note: this could also mean "I come with non-friend(s)". In that case "amio-naiet" would be more usually written with a hyphen, but generally the meaning is inferred from the context. To clarify, one may say "haik amio seirou", "with zero friends".)
 * **Instrumental**: used to tell with which tool or by which means an action was performed. Like with comitative, the postposition "naiet" can be used to tell the deed was done without something.
@@ -258,7 +261,7 @@ The predicate prepositions for mood and evidentiality are listed in the followin
 * The conditional is used in more different situations than in English. In counterfactual if-sentences it is used in both the if-clause and the then-clause. It may also be used in factual if-clauses instead of the indicative, if using an evidential wouldn't make sense. In that case the then-clause takes typically the inferential indicative mood to show the factuality. The conditional may also be used in restrictive relative clauses, again if no evidential makes sense.
 
 #### Tense- and aspect-like information
-In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai-mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei-mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently"). These phrases are synonymous to "taet-duirin", "taex-duirin" and "tael-duirin", respectively. However, tehre is a nuance difference in immediacy. Whereas "aura" is more generally "currently", "tael-duirin" is more specifically "at this very moment". "Taet-duirin" and "taex-duirin" are more immediately before and after this moment than "aikai-mas" and "muoehaei-mas", and they can be contrasted in text or discussion.
+In Shiofaioth, verbs are not inflected by tense or aspect. Adverbs and phrases describing time etc. can be used to convey this information instead, if the context isn't enough. A past tense may be translated for example with the phrase "aikai-mas" ("earlier"). This is not needed if there is a specific indication of time, e.g. "duil dai fieme duirin" ("yesterday"). Similarly, a future tense can be translated with "muoehaei-mas" ("later"). A present tense can be explicitly translated with the adverb "aura" ("now", "currently"). These phrases are synonymous to "taet-duirin", "taex-duirin" and "tael-duirin", respectively. However, there is a nuance difference in immediacy. Whereas "aura" is more generally "currently", "tael-duirin" is more specifically "at this very moment". "Taet-duirin" and "taex-duirin" are more immediately before and after this moment than "aikai-mas" and "muoehaei-mas", and they can be contrasted in text or discussion.
 
 #### Impersonal verbs, passive-like form and detransitive
 There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subject can just be left out. For example, "it rains" translates to "xae-rein-duei". Similarly, the english passive without an agent can be translated by leaving out the subject. To emphasize the object in the same way as in the English passive, the free word order my be utilized to bring it to the front. For example, "books are loaned from the library" can be translated as "ein kietab mui die-lain-fioi feix liraeria". A passive with an agent may also be translated by bringing the object to the front and leaving the subject to the last position.
@@ -289,20 +292,24 @@ A verbs meaning can be changed from "to do something" to "to cause someone/someh
 The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms. Some particles are a priori.
 
 ### Question words
-Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Similarly to yes-or-no questions, "ke"-questions typically use conditional or inferential indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
+Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Unlike yes-or-no questions, which use the interrogative mood, "ke"-questions typically use conditional or inferential indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
 
 ### Derivational affixes
-
+Adjectives can be turned into nouns describing the property with the ending "-(i)sus", translating to "-ness" in English. These nouns are usually class 2, but can also be class 3 if they are discussed more abstractly.
 
 ## Sample texts and translations
 
 ### The piece of tortoise news
-Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaisifa, bue-ecoidae-duei faelid dai opia, daet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaisifa-ki duil Rio Hudson.
+Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaisifa, bue-ecoidae-duei faelid dai opia, edaet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaisifa-ki duil Rio Hudson.
+
+---
 
 People liking turtles better than cops will be pleased to learn a turtle bit off a cop's toe in the Hudson River. (The Daily Times, New Philadelphia, Ohio, July 9, 1924)
 
 ### The first paragraph of *The Dispossessed*
 Xae-ecoi-duei hei seinae. Xie xae-cainen-duei naiet taerekeae. Xien bue-suroit-fioi heix kiui hauenitafa naiet ia mouratafa karea aeis. Ui aikuin lie-puedaen-fioi cauen xiex-ouer, ia aux ui cailid lie-puedaen-fioi kiuet xiet. Xiel, aokael xie xae-kurous-duei duik tie, xae-ecoi-duei naiet ei puero, peuroa xie xae-raeutua-duei huit xeometeria ainoa aeis, heit linea aeis, hait aidea aeis, aokae bue-siuxa-duei ein raia. Peuroa dai aidea xae-ecoi-duei real. Xie xae-ecoi-duei taerekeae. Fail xieneraicion sieben sait eine-naiet duil maila soe-ecoi-duei taerekeae mas kuin dei seinae tuo.
+
+---
 
 There was a wall. It did not look important. It was built of uncut rocks roughly mortared. An adult could look right over it, and even a child could climb it. Where it crossed the roadway, instead of having a gate it degenerated into mere geometry, a line, an idea of boundary. But the idea was real. It was important. For seven generations there had been nothing in the world more important than that wall. (The Dispossessed, Ursula K. Le Guin, 1974)
 
@@ -310,6 +317,18 @@ There was a wall. It did not look important. It was built of uncut rocks roughly
 Dui fulif ia dui koira
 
 Hui fulif naelai xae-feinier-duei huit koira boada caid ia xae-seinoa-duei: "Daif amio xut, mie xae-ecoi-heui naelai soain, edaet mie xae-puedain-heui naiet silaif. Peuroa sie xae-ecoi-duei xirocoi ia dik. Kex sie bue-cepacu-duei dein xait siec-ki? Kel sie bue-risaid-duei? Kel sie bue-xait-duei?"
+
+"Mie xae-ecoi-paoi dai paluelafa daim paluelatafa-ka miem-ka," xae-faset-duei dui koira. "Mie xae-paluela-paoi dain paluelatafa miem-ka, Mie xae-xuarad-paoi dein haus daic paluelatafa-ki miem-ka. Taen-four, dai paluelatafa miem-ka xae-xiefen-duei miem ein xait moniaxo kuin mie xae-kiere-duei."
+
+Tuox-duirin dui fulif xae-seinoa-duei, "Mie xae-ficit-heui koeuhae suir. Fuil dai sait ia fuil nueo sait mie xae-kulea-heui uil fores ia eil aoker ia xae-loeutae-heui ein xait eine-naiet dain puoliso ia dain dienio miem-ka four. Mie xae-puedaen-heui naiet ficit enae tael-lainen. Dai puoliso ia dai dienio miem-ka lie-muerair-heui dain naelaisus-four. Taen-four, mie xae-feinier-heui aux hait paluelafa duim huomo aeis ia xae-xuarad-heui dein haus xuoc-ki."
+
+Dui koira ia dui fulif xae-laufen-duei samen duix fores-durix deit haus, aokael dui koira xae-risaid-duei. Suedaen dui fulif xae-cauen-duei dei kaula duic koira-ki. Xie xae-ecoi-duei satonicitafa ia xae-seinoa-duei: "Mie xae-cauen-duei, edaet deic kaula siec-ki xae-ecoi-duei naiet ei xaire. Fuic koira iede foe-ecoi-fioi ei kaula eik xaire naiet?"
+
+"Naiet," xae-faset-duei dui koira. "Fuic koira iede-naiet. Mie xae-pukea-paoi hein ticeiun fuil dai sait. Fuil dai sait mie xae-laie-paoi deil haus daic paluelatafa-ki miem-ka fior sitaitafa heip ticeiun. Dei ticeiun xae-ecoi-duei eix aiero-aeis ia fei aiero xae-ecoi-duei daurofa. Taen-four miec xae-ecoi-heui naiet ei xaire deil kaula miec-ki oan. Peuroa fuil nueo sait mie xae-ecoi-duei lifair. Fuil nueo sait mie xae-kulea-duei einel mie xae-kiere-duei."
+
+"Daif siaruc liubititafa," xae-seinoa-duei dui fulif duim koira. "Dai naelaisus xae-ecoi-duei cairix, peuroa fei ticeiun bue-ecoi-duei cairix-mas. Mie xae-pukea-xoai ei ticeiun aura naiet ia muoehaei-mas naiet. Xae-ecoi-duei xut-mas, edaet mie lie-muerair-heui dain naelaisus-four daik puoliso ia daik dienio miem-ka. Foe-laufen-fioi miek-naiet dait paluelatafa siem-ka caid takai. Xae-ecoi-duei xut-mas, edaet lie-ecoi-duei naelai kuin dik; xae-ecoi-duei xut-mas, edaet lie-ecoi-duei lifair kuin edaet lie-pukea-paoi ein ticeiun. Foe-ficit-duei xut."
+
+---
 
 The wolf and the dog
 
@@ -328,10 +347,12 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 
 ## Dictionary
 * aidea - (noun, class 2) "idea"
+* aiero - (noun, class 1) "iron"
 * aikai - (adjective/adverb) "early"
 * aikuin - (noun, class 3) "grown-up", "adult"
 * ainoa - (adjective/adverb) "mere", "only", "just"
 * amio - (noun, class 2) "friend"
+* aoker - (noun, class 1) "field"
 * aokua - (noun, class 3) "water"
 * aura - (adjective/adverb) "current", "currently", "now"
 * ausoa - (verb) "to believe"
@@ -348,14 +369,15 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * bueno - (adjective/adverb) "(morally) good", "well"
 * cailid - (noun, class 3) "child", "physically immature person or creature"
 * cainen - (verb, copular) "to seem", "to look"
-* cauen - (verb, transitive) "to look", "to see", "to watch"
+* cairix - (adjective/adverb) "difficult", "hard (figuratively)"
+* cauen - (verb, transitive) "to look (at)", "to see", "to watch"
 * cepacu - (verb) "to get", "to acquire", "to obtain"
 * cien - (numeral) "hundred"
 * ciome - (numeral) "three"
 * coen - (adjective/adverb) "beautiful"
 * cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
-* daet - (particle) "that", subordinating conjunction
 * dai - (noun, class 3) "day"
+* daurofa - (adjective/adverb) "hard (physically)"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
 * dies - (numeral) "ten"
@@ -364,16 +386,20 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * duei - (particle) postposition for voluntary action or naturally occurring event
 * duos - (numeral) "two"
 * ecoi - (verb, copular) "to be"
-* edaet - (particle) "that"
+* edaet - (particle) "that", subordinating conjunction
 * eiciae - (verb, transitive) "to look for", "to search"
 * eine - (pronoun) "any", "anything", "anyone"
+* enae - (particle) "still", "anymore"
 * faelid - (adjective/adverb) "happy"
 * faif - (numeral) "five"
-* feinier - (verb, intransitive) "to come"
+* faset - (verb) "to answer", (noun, class 2) "answer"
+* feinier - (verb, intransitive) "to come", "to become"
+* ficit - (verb, intransitive) "to live", (noun, class 2) "life"
 * fieme - (adjective/adverb) "previous", "previously"
 * fiheit - (verb, transitive) "to hate"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
+* fores - (noun, class 3) "forest"
 * fosiem - (numeral) "eight"
 * fulif - (noun, class 3) "wolf"
 * fuosi - (noun, class 3) "year"
@@ -385,12 +411,14 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * hoix - (adjective/adverb) "tall", "high"
 * huomo - (noun, class 3) "human"
 * iede - (pronoun) "every", "everything", "everyone"
+* iet - (particle) "yet", "already"
 * iroit - (verb, intransitive) "to detach"
 * iroitedae - (verb, transitive) "to detach"
 * ka - (particle) used for class 2 possession
 * kailien - (adjective/adverb) "warm"
 * kaofei - (noun, class 1) "coffee"
 * karea - (adjective/adverb) "rough"
+* kaula - (noun, class 1) "neck"
 * ki - (particle) used for class 1 possession
 * kiere - (verb, transitive) "to want"
 * kietab - (noun, class 1) "book"
@@ -398,20 +426,28 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * kiui - (noun, class 1) "rock", "stone"
 * koaxein - (particle) "against" (in a non-physical sense)
 * koc - (noun, class 3) "cat"
+* koeuhae - (adjective/adverb) "poor", "poorly", "lacking resources"
 * koira - (noun, class 3) "dog"
 * kouofeit - (verb, transitive) "to cook"
 * kouofeitifa - (noun, class 3) "cook"
 * kuin - (particle) "than", "like", "as"
+* kulea - (verb, intransitive) "to roam", "to wander"
 * kurous - (verb, intransitive) "to cross"
+* laie - (verb, intransitive) "to lie", "to rest"
 * laik - (verb, transitive) "to like"
 * lain - (verb, transitive) "to loan", "to borrow"
+* laufen - (verb, intransitive) "to run"
 * les - (adjective/adverb) "less"
 * lesit - (adjective/adverb) "least"
 * leikiae - (verb, transitive) "to play"
 * lie - (particle) conditional preposition
+* lifair - (adjective, adverb) "free", "freely"
 * linea - (noun, class 1) "line"
 * liraeria - (noun, class 1) "library"
+* liubit - (verb, transitive) "to love", "to hold dear"
+* liubititafa - (adjective/adverb) "dear"
 * leip - (noun, class 1) bread
+* loeutae - (verb, transitive) "to find"
 * loucion - (noun, class 3) "explosion"
 * maila - (noun, class 3) "the world"
 * mas - (adjective/adverb) "more"
@@ -420,19 +456,25 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * miliarid - (numeral) "billion" (American), "thousand million" (British)
 * milion - (numeral) "million"
 * moer - (noun, class 3) "man"
+* moniaxo - (adjective/adverb) "much", "many"
 * moura - (verb, transitive) "to mortar", "to mason"
 * muerair - (verb, intransitive) "to die", (noun, class 2) "death"
 * muerairedae - (verb, transitive) "to kill"
 * mui - (adjective/adverb) "multiple"
 * muoehaei - (adjective/adverb) "late"
 * naelai - (adjective/adverb) "hungry", "hungrily"
+* naelaisus - (noun, class 2/3) "hunger"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
 * nao - (numeral) "nine"
 * neliae - (numeral) "four"
+* nueo - (noun, class 3) "night"
 * opia - (verb, transitive) "to learn"
 * opiadae - (verb, transitive) "to teach", "to educate"
 * opiadaefa - (noun, class 2) "teacher"
+* paluela - (verb, transitive) "to serve"
+* paluelafa - (noun, class 2) "servant"
+* paluelatafa - (noun, class 2) "master (of a servant)"
 * paod - (noun, class 2) "pet"
 * paoi - (particle) postposition of directly forced or ordered action or event
 * paurein - (noun, class 2) "parent"
@@ -446,6 +488,8 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * poulaisifa - (noun, class 3) "police (officer)", "cop"
 * puedaen - (verb, transitive) "can", "to be able", "to know (a skill)"
 * puero - (noun, class 1) "door", "gate"
+* pukea - (verb, transitive) "to wear", "to dress", "to clothe", (noun, class 1) "(piece of) clothing"
+* puoliso - (noun, class 2) "partner", "spouse"
 * raeutua - (verb, intransitive) "to degenerate"
 * raia - (noun, class 2) "boundary", "limit", "border"
 * raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
@@ -456,6 +500,9 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * rio - (noun, class 3) "river"
 * risaid - (verb, intransitive) "to live (in a place)", "to reside"
 * rue - (particle) imperative preposition
+* samen - (adjective/adverb) "together"
+* satonic - (verb, transitive) "to astonish"
+* satonicitafa - (adjective/adverb) "astonished"
 * seinae - (noun, class 1) "wall"
 * seinoa - (verb, transitive) "to say"
 * seirou - (numeral) "zero"
@@ -464,17 +511,22 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * sie - (pronoun) "(singular) you"
 * sieben - (numeral) "seven"
 * silaif - (verb, intransitive) "to sleep"
+* sitai - (verb, transitive) "to tie", "to bind"
 * siuxa - (verb, transitive) "to represent", "to symbolize"
 * soain - (adjective/adverb) - "so", "like", "to the extent", "similar"
 * soe - (particle) reportative indicative preposition
 * soudiu - (noun, class 1) "sausage"
-* suimar - (verb, intransitive) "to swim" 
+* suedaen - (adjective/adverb) "sudden", "suddenly"
+* suimar - (verb, intransitive) "to swim"
+* suir -(adverb) "very"
 * suroit - (verb, transitive) "to build", "to construct"
 * suroitifa - (noun, class 3) "builder", "construction worker"
 * tae - (pronoun) "this", "these"
 * taerekeae - (adjective/adverb) "important"
+* takai - (particle) "back"
 * teik - (verb, transitive) "to take"
 * ticai - (noun, class 1) "tea"
+* ticeiun - (noun, class 1) "chain"
 * tie - (noun, class 3) "way", "road"
 * tiriliarid - (numeral) "sextillion" (American), "thousand trillion" (British)
 * tirilion - (numeral) "quintillion" (American), "trillion" (British)
@@ -486,6 +538,7 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * tuo - (pronoun) "that" (demonstrative pronoun), "those"
 * uon - (numeral) "one"
 * xae - (particle) firsthand indicative preposition
+* xaire - (noun, class 1) "hair"
 * xait - (verb, transitive) "to eat", (noun, class 1) "food"
 * xaitedae - (verb, transitive) "to feed"
 * xeometeria - (noun, class 3) "geometry"
