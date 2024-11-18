@@ -309,7 +309,9 @@ Adjectives can be turned into nouns describing the property with the ending "-(i
 
 ### Phrases
 * "Hioxoi!", "Hello!"
-* "Xae-ecoi-duei ai nautia, edaet mie xae-feinier-duei noudiaefa sien.", "It's a pleasure to get to know you." (or simply "Nice to meet you")
+* "Xae-ecoi-duei ai nautia, edaet mie xae-feinier-duei noudiaefa sien.", "It's a pleasure to get to know you." (Or simply "Nice to meet you".)
+* "Kel-lainen lie-ecoi-fioi dai ficit siem-ka?", "How is your life?"
+* "Foe-ficit-duei xut!", "Live well!" (When parting and not expecting to see each other again.)
 
 ## Sample texts and translations
 
