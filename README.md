@@ -44,8 +44,6 @@ Nouns are divided into three classes:
 
 3. things that exist for themselves: a human, the weather, the world. Class 3 uses article base form "ui".
 
-When compounding nouns, the first noun sets the class. For example, "ui koc", a cat, is a creature that lives for itself and cannot be owned. However, you may have it as a pet. A pet cat is "ai paod-bei-koc", where "bei" is a particle meaning "of type".
-
 Proper nouns may be used without article when the case is obvious. If an article is needed, a class 3 article is used.
 
 #### Definiteness and specificity
@@ -102,12 +100,13 @@ The cases are used as follows:
   * Example 3 ("to have"): "*Deic haus* soe-ecoi-duei ei puero duos.", "The house has two doors." (It is typical but not necessary to put the possessor to the beginning of the sentence.)
 * **Accusative**: Used for the direct object and with postpositions "four" ("for", "because of") and "koaxein" ("against" in the non-physical sense).
   * Example 1 (direct object): "Hai toroic xae-baisen-xoai *hain poulaisifa*.", "a tortoise bites a cop (defiantly)".
-  * Example 2 (with a postposition): "Mie xae-doia-paoi xien dain dienio-four.", "I (have to) do it for the child(ren)."
-* **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible.
+  * Example 2 (with a postposition): "Mie xae-doia-paoi xien *dain dienio-four*.", "I (have to) do it for the child(ren)."
+* **Dative**: Used for the indirect object, and for class 2 possession either in adjectival form with the postposition "ka" or independently without it. Similarly to the genitive, a "to have" construction is possible. Also used with the postoposition "oebaut" ("about")
   * Example 1 (indirect object): "Sie rue-ausoa-fioi naiet *uim poulitaikifa*!", "Don't believe a politician!"
   * Example 2 (indirect object together with a direct object): "Mie xae-xiefen-duei hein boun *duim koira*.", "I give a bone to the dog."
   * Example 3 (adjectival possession): "hai siaruc-bei-moer *haim paurein-ka*", "a brother of a parent" ("an uncle")
   * Example 4 ("to have"): "*Duim suroitifa* soe-ecoi-duei ai amio kaunis.", "The builder has a beautiful friend."
+  * Example 5 (with a postoposition): "Mie xae-hioir-duei *daim haferia-oebaut*.", "I heard about the accident."
 * **Locative, lative and separative**: Locative is used to indicate existing in a location or state, lative moving to a location or state and separative moving from a location or state. They are used either independently (very often, even when a suitable postposition exists) or with one of the many postpositions as found in the table below.
   * Example 1 (independent): "Mie xae-ecoi-duei *dail haim*.", "I am home."
   * Example 2 (with postposition): "Mie xae-ecoi-xoai hui pietifa-naiet *duix fuosi fieme sait*.", "I have been sober since last year."
@@ -144,6 +143,17 @@ The cases are used as follows:
 Nouns are not marked for number, and by default the number of a noun is inferred from context. However, quantifiers can be used to make the number explicit. One uses for example the adjective "mui" ("multiple") to make an explicit plural, and the numeral "uon" ("one") for explicit singular.
 * Example 1 (singular): "Mie xae-xait-duei soudiu uon.", "I ate one sausage."
 * Example 2 (plural): "Xiem die-ecoi-duei hai siaruc mui", "They have siblings."
+
+#### Compounding nouns
+Nouns can be compounded by putting them one after other with a compounding particle between them. They are separate words, but in writing usually combined with hyphens. The compund form takes only one article in the beginning. When compounding nouns, the first noun sets the noun class. For example, "ui koc", a cat, is a creature that lives for itself and cannot be owned. However, you may have it as a pet. A pet cat is "ai paod-bei-koc", where "bei" is a particle meaning "of type". As Shiofaioth doesn't have a generic translation for English "of", it can often be translated as a specific compounding particle. The compounding particles are listed in the following table:
+
+| Particle | Meaning                    |
+| -------- | -------------------------- |
+| bei      | of type                    |
+| kon      | consisting of / containing |
+| iuf      | used for                   |
+| rel      | related to                 |
+| fom      | from                       |
 
 ### Pronouns
 
@@ -271,9 +281,9 @@ Detransitive is unmarked. That means basically that even a transitive verb can b
 #### Infinitive and participles
 The infinitive is a verb without the pre- and postpositions given to a predicate. Infinitives are used by auxiliary verbs like "puedaen" ("can") and some other verbs like "kiere" ("to want"). An infinitive can also be used as a noun, meaning the action/event described by the verb, or the product of it, or sometimes (if the action has no product) the object of it. In most cases these nouns belong to class 2, as they are by definition *someone's* actions. In some cases that doesn't make sense, though, so for example "ui rein" ("rain") is a class 3 noun.
 * Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
-* Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai raiboud* miem-ka.", "The explosion was my work."
+* Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai doia* miem-ka.", "The explosion was my doing."
 
-Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are three types of participles in Shiofaioth: the active or nominative participle (suffix "-(i)fa"), and two passive participles, one accusative (suffix "-(i)tafa") and the other dative (suffix "-(i)mafa"). The initial i of the suffixes will be included if the verb eds in a consonant. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing.
+Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are three types of participles in Shiofaioth: the active or nominative participle (suffix "-(i)fa"), and two passive participles, one accusative (suffix "-(i)tafa") and the other dative (suffix "-(i)mafa"). The initial i of the suffixes will be included if the verb eds in a consonant. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing. Participles can have direct or indirect objects describing them, in accusative and dative, respectively.
 * Example 1 (nominative participle): "ui moer baileifa", "a dancing man"
 * Example 2 (accusative participle): "ai cou baileitafa", "a show that is performed by dancing"
 * Example 3 (dative participle): "ui nais baileimafa", "a woman for whom a dance is performed"
@@ -289,13 +299,17 @@ A verbs meaning can be changed from "to do something" to "to cause someone/someh
 * Example 4 (copular verb): "Fei ticai xae-ecoidae-duei faelid mien." "Tea makes me happy." ("ecoi", "to be")
 
 ## Some vocabulary
-The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms. Some particles are a priori.
+The vocabulary of Shiofaioth comes from multiple source languages, including but not necessarily limited to (in alphabetical order) English, Finnish, German, Hindi, Lojban, Russian and Spanish. The words may be arbitrarily combined together, twisted to fit the phonology and ortography of Shiofaioth and otherwise mangled, and may thus not resemble much their original forms, and similarly, their meanings may not exactly match the original. Some particles are a priori.
 
 ### Question words
 Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Unlike yes-or-no questions, which use the interrogative mood, "ke"-questions typically use conditional or inferential indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
 
 ### Derivational affixes
 Adjectives can be turned into nouns describing the property with the ending "-(i)sus", translating to "-ness" in English. These nouns are usually class 2, but can also be class 3 if they are discussed more abstractly.
+
+### Phrases
+* "Hioxoi!", "Hello!"
+* "Xae-ecoi-duei ai nautia, edaet mie xae-feinier-duei noudiaefa sien.", "It's a pleasure to get to know you." (or simply "Nice to meet you")
 
 ## Sample texts and translations
 
@@ -344,9 +358,25 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 
 "Dear brother," said the wolf to the dog.  "Hunger is hard, but the chain is harder.  I wear no chain and will not wear one.  Better that I die from hunger with my wife and children.  Run alone back to your master.  It is better to be hungry than fat; it is better to be free than to wear a chain. Farewell." (From an old German Reader (circa 1933), translated to English by David The Grey Wizard. [Source.](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind9912D&L=conlang&P=R3500))
 
+### Pale Blue Dot (work in progress)
+Duil loukeicion-iuf-cauen kaukai tae, Tielus lie-puedaen-duei cainen naiet kinosuatafa earituei. Peuroa muom, xae-ecoi-duei eirielai. Foe-dumaet-duei muimoi duin poin tuo. Tuo xae-ecoi-duei tael. Tuo xae-ecoi-duei dai haim. Tuo xae-ecoi-duei muo. Xiel oan huomo iede, aokaen sie bue-liubit-duei, huomo iede, aokaen sie bue-noudiae-duei, huomo iede, aokaem-oebaut sie xae-hioir-duei auxol-duirin, huomo iede, aokae xae-ecoi-duei auxol-duirin, xae-ficit-duei fail ficit xuom-ka sait. Fai faelidisus ia fai kaitua muom-ka reuniritafa, fai relixion, fai aidealoxia ia fai doixima-rel-oekonomia saixer tuhat mui, fui iaxefa ia fui poimiafa iede, fui xeroi ia fui fierifa iede, fui luodafa ia haiotedaefa iede fain kulitur faiterexenifa, fui koenix ia fui bauenifa iede, fai menaic huofien liubitifa iede, fai paurein, fui cailid douesearifa, fui difaisifa ia fui tieteilaefa iede, fui opiadaefa ain ediek iede, fui poulitaikifa korutio iede, fui "tieran super" iede, fai "iohatifa hoix-masit" iede, fui doiafa ain doia bueno ia fui rikoafa iede dail hisoria daim pairioda-ka muom-ka xae-ficit-duei tuol - deil hiukaen-kon-daus oan roikuafa duil beiem-fom-saul ien.
+
+---
+
+From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there – on a mote of dust suspended in a sunbeam.
+
+The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
+
+Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
+
+The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+
+It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known. (Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan, 1994. Quoted from Wikipedia.)
+
 
 ## Dictionary
 * aidea - (noun, class 2) "idea"
+* aidealoxia - (noun, class 2) "ideology"
 * aiero - (noun, class 1) "iron"
 * aikai - (adjective/adverb) "early"
 * aikuin - (noun, class 3) "grown-up", "adult"
@@ -360,7 +390,10 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * auxo - (pronoun) "some", "something", "someone"
 * bailei - (verb, transitive) "to dance", (noun, class 2) "dance"
 * baisen - (verb, transitive) (to bite)
+* bauen - (verb, transitive) "to farm"
+* bauenifa - (noun, class 3) "farmer", "peasant"
 * bei - (particle) "of type", used for compounding nouns
+* beiem - (noun, class 3) "beam", "ray"
 * biliarid - (numeral) "quadrillion" (American), "thousand billion" (British)
 * bilion - (numeral) "trillion" (American), "billion" (British)
 * boada - (adjective/adverb) "old"
@@ -378,24 +411,36 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * cou - (verb, transitive) "to perform", (noun, class 2) "performance", "show"
 * dai - (noun, class 3) "day"
 * daurofa - (adjective/adverb) "hard (physically)"
+* daus - (noun, class 3) "dust", "dirt"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
 * dies - (numeral) "ten"
+* difais - (verb, transitive) "to invent"
+* difaisifa - (adjective/adverb) "inventive", (noun, class 3) "inventor"
 * dik - (adjective/adverb) "thick", "fat"
-* doia - (verb, transitive) "to do"
+* doia - (verb, transitive) "to do", (noun, class 2) "doing", "deed"
+* doixima - (noun, class 2) "dogma", "doctrine", "canonical truth", "enforced belief"
+* douesear - (verb, transitive) "to hope"
 * duei - (particle) postposition for voluntary action or naturally occurring event
+* dumaet - (verb, transitive) "to think (about)", "to consider"
 * duos - (numeral) "two"
+* earituei - (adjective/adverb) - "particular", "particularly", "especially", "specific", "specifically"
 * ecoi - (verb, copular) "to be"
 * edaet - (particle) "that", subordinating conjunction
+* ediek - (noun, class 2) "moral", "principle", "ethics"
 * eiciae - (verb, transitive) "to look for", "to search"
 * eine - (pronoun) "any", "anything", "anyone"
+* eirielai - (adjective/adverb) "different", "differently"
 * enae - (particle) "still", "anymore"
 * faelid - (adjective/adverb) "happy"
 * faif - (numeral) "five"
+* faiterexen - (verb, transitive) "to progress"
 * faset - (verb) "to answer", (noun, class 2) "answer"
 * feinier - (verb, intransitive) "to come", "to become"
 * ficit - (verb, intransitive) "to live", (noun, class 2) "life"
 * fieme - (adjective/adverb) "previous", "previously"
+* fier - (verb, transitive) "to fear", (noun, class 2) "fear"
+* fierifa - (adjective/adverb) "fearful", "fearfully", (noun, class 3) "coward"
 * fiheit - (verb, transitive) "to hate"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * foe - (particle) interrogative preposition
@@ -403,35 +448,55 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * fosiem - (numeral) "eight"
 * fulif - (noun, class 3) "wolf"
 * fuosi - (noun, class 3) "year"
+* haferia - (noun, class 2) "accident"
 * haim - (noun, class 2) "home"
+* haiot - (verb, intransitive) "to break"
+* haiotedae - (verb, transitive) "to break", "to destroy"
+* haiotedaefa - (noun, class 3) "destroyer"
 * hauen - (verb, transitive) "to cut", "to chop"
 * haumeir - (noun, class 1) "hammer"
 * haus - (noun, class 1) "house"
 * heui - (particle) postposition for an action or event indirectly forced by conditions
+* hisoria - (noun, class 2) "history"
+* hioir - (verb, transitive) "to hear", "to listen (to)"
+* hioxoi - (interjection) "hi", "hello", "greetings"
+* hiukaen (noun, class 1) "particle", "mote", "nugget"
 * hoix - (adjective/adverb) "tall", "high"
+* huofien - (adjective/adverb) "young"
 * huomo - (noun, class 3) "human"
+* iaxe - (verb, transitive) "to hunt"
+* iaxefa - (noun, class 3) "hunter"
 * iede - (pronoun) "every", "everything", "everyone"
 * iet - (particle) "yet", "already"
+* iohat - (verb, transitive) "to lead", "to rule"
+* iohatifa (noun, class 2) "leader", "ruler"
 * iroit - (verb, intransitive) "to detach"
 * iroitedae - (verb, transitive) "to detach"
 * ka - (particle) used for class 2 possession
 * kailien - (adjective/adverb) "warm"
+* kaitua - (verb, intransitive) "to suffer", (noun, class 2) "suffering"
 * kaofei - (noun, class 1) "coffee"
 * karea - (adjective/adverb) "rough"
+* kaukai - (adjective/adverb) "far (away)", "distant"
 * kaula - (noun, class 1) "neck"
 * ki - (particle) used for class 1 possession
 * kiere - (verb, transitive) "to want"
 * kietab - (noun, class 1) "book"
+* kinosua - (verb, transitive) "to be interested in"
+* kinosuatafa (adjective/adverb) "interesting", "interestingly"
 * kiuet - (verb, intransitive) "to climb"
 * kiui - (noun, class 1) "rock", "stone"
 * koaxein - (particle) "against" (in a non-physical sense)
 * koc - (noun, class 3) "cat"
+* koenix - (noun, class 3) "king", "queen"
 * koeuhae - (adjective/adverb) "poor", "poorly", "lacking resources"
 * koira - (noun, class 3) "dog"
+* korutio - (adjective/adverb) "corrupt"
 * kouofeit - (verb, transitive) "to cook"
 * kouofeitifa - (noun, class 3) "cook"
 * kuin - (particle) "than", "like", "as"
 * kulea - (verb, intransitive) "to roam", "to wander"
+* kulitur - (noun, class 2) "culture"
 * kurous - (verb, intransitive) "to cross"
 * laie - (verb, intransitive) "to lie", "to rest"
 * laik - (verb, transitive) "to like"
@@ -449,9 +514,13 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * leip - (noun, class 1) bread
 * loeutae - (verb, transitive) "to find"
 * loucion - (noun, class 3) "explosion"
+* loukeicion - (noun, class 3) "location", "point"
+* luoda - (verb, transitive) "to create", "to make"
+* luodafa - (adjective/adverb) "creative", "creatively", (noun, class 3) "creator", "maker"
 * maila - (noun, class 3) "the world"
 * mas - (adjective/adverb) "more"
 * masit - (adjective/adverb) "most"
+* menaic - (noun, class 2) "couple", "throuple" etc., "romantic partnership"
 * mie - (pronoun) "I"
 * miliarid - (numeral) "billion" (American), "thousand million" (British)
 * milion - (numeral) "million"
@@ -461,17 +530,22 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * muerair - (verb, intransitive) "to die", (noun, class 2) "death"
 * muerairedae - (verb, transitive) "to kill"
 * mui - (adjective/adverb) "multiple"
+* muimoi (adjective/adverb) "another", "again"
 * muoehaei - (adjective/adverb) "late"
 * naelai - (adjective/adverb) "hungry", "hungrily"
 * naelaisus - (noun, class 2/3) "hunger"
 * naiet - (particle) "no", "not", "don't", "doesn't", "non-"
 * nais - (noun, class 3) "woman"
 * nao - (numeral) "nine"
+* nautia - (verb, transitive) "to enjoy", (noun, class 2) "pleasure"
 * neliae - (numeral) "four"
+* noudiae - (verb, transitive) "to know (about)", "to be familiar with"
 * nueo - (noun, class 3) "night"
+* oekonomia - (noun, class 3) "economics"
 * opia - (verb, transitive) "to learn"
 * opiadae - (verb, transitive) "to teach", "to educate"
 * opiadaefa - (noun, class 2) "teacher"
+* pairioda - (noun, class 2) "species", "classification"
 * paluela - (verb, transitive) "to serve"
 * paluelafa - (noun, class 2) "servant"
 * paluelatafa - (noun, class 2) "master (of a servant)"
@@ -482,7 +556,10 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * peuroa - (particle) "but"
 * piet - (verb, transitive) "to drink"
 * pietifa - (noun, class 3) "drinker"
-* poulitaik - (noun, class 3) "politics", (verb) "to do politics"
+* poimia - (verb, transitive) "to gather", "to forage", "to pick"
+* poimiafa - (noun, class 3) "gatherer", "forager"
+* poin - (noun, class 3) "dot", "point"
+* poulitaik - (noun, class 3) "politics", (verb, intransitive) "to do politics"
 * poulitaikifa - (noun, class 3) "politician"
 * poulais - (verb, transitive) "to police"
 * poulaisifa - (noun, class 3) "police (officer)", "cop"
@@ -494,15 +571,24 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * raia - (noun, class 2) "boundary", "limit", "border"
 * raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
 * raiboudifa - (noun, class 3) "worker"
+* rais - (noun, class 3) "time", "repetition", "instance"
 * real - (adjective/adverb) "real"
 * rein - (verb, transitive) "to rain", (noun, class 3) "rain"
+* relixion - (noun, class 2) "religion"
 * repaer - (verb, transitive) "to repair", "to fix"
+* reunir - (verb, transitive) "to collect", "to accumulate"
+* rikoa - (verb, intransitive) "to act against community", "to harm community"
+* rikoafa - (noun, class 3) "criminal", "sinner"
 * rio - (noun, class 3) "river"
 * risaid - (verb, intransitive) "to live (in a place)", "to reside"
+* roikua - (verb, intransitive) "to hang", "to be suspended"
 * rue - (particle) imperative preposition
+* saixer - (adjective/adverb) "confident", "confidently"
 * samen - (adjective/adverb) "together"
 * satonic - (verb, transitive) "to astonish"
 * satonicitafa - (adjective/adverb) "astonished"
+* saul - (noun, class 3) "sun"
+* saxia - (noun, class 1) "thing"
 * seinae - (noun, class 1) "wall"
 * seinoa - (verb, transitive) "to say"
 * seirou - (numeral) "zero"
@@ -519,6 +605,7 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * suedaen - (adjective/adverb) "sudden", "suddenly"
 * suimar - (verb, intransitive) "to swim"
 * suir -(adverb) "very"
+* super (adjective/adverb) "super-"
 * suroit - (verb, transitive) "to build", "to construct"
 * suroitifa - (noun, class 3) "builder", "construction worker"
 * tae - (pronoun) "this", "these"
@@ -528,6 +615,10 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * ticai - (noun, class 1) "tea"
 * ticeiun - (noun, class 1) "chain"
 * tie - (noun, class 3) "way", "road"
+* Tielus - (noun, proper) "The Earth"
+* tieran - (noun, class 3) "star"
+* tieteilae - (verb, transitive) "to explore", "to research", "to study"
+* tieteilaefa - (noun, class 3) "explorer", "researcher", "scientist"
 * tiriliarid - (numeral) "sextillion" (American), "thousand trillion" (British)
 * tirilion - (numeral) "quintillion" (American), "trillion" (British)
 * tiuraem - (noun, class 1) "prison"
@@ -542,6 +633,7 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 * xait - (verb, transitive) "to eat", (noun, class 1) "food"
 * xaitedae - (verb, transitive) "to feed"
 * xeometeria - (noun, class 3) "geometry"
+* xeroi - (adjective/adverb) "heroic", "heroically", (noun, class 3) "hero"
 * xie - (pronoun) "(singular) they", "he", "she", "it"
 * xiefen - (verb, transitive) "to give"
 * xieneraicion - (noun, class 2) "generation"
