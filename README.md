@@ -154,6 +154,9 @@ Nouns can be compounded by putting them one after other with a compounding parti
 | iuf      | used for                   |
 | rel      | related to                 |
 | fom      | from                       |
+| ies      | which is                   |
+
+The compunding can be chained to form more complex compunds. Usually the context should tell, whether each part describes the firs word or the previous one.
 
 ### Pronouns
 
@@ -361,7 +364,9 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 "Dear brother," said the wolf to the dog.  "Hunger is hard, but the chain is harder.  I wear no chain and will not wear one.  Better that I die from hunger with my wife and children.  Run alone back to your master.  It is better to be hungry than fat; it is better to be free than to wear a chain. Farewell." (From an old German Reader (circa 1933), translated to English by David The Grey Wizard. [Source.](https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind9912D&L=conlang&P=R3500))
 
 ### Pale Blue Dot (work in progress)
-Duil loukeicion-iuf-cauen kaukai tae, Tielus lie-puedaen-duei cainen naiet kinosuatafa earituei. Peuroa muom, xae-ecoi-duei eirielai. Foe-dumaet-duei muimoi duin poin tuo. Tuo xae-ecoi-duei tael. Tuo xae-ecoi-duei dai haim. Tuo xae-ecoi-duei muo. Xiel oan huomo iede, aokaen sie bue-liubit-duei, huomo iede, aokaen sie bue-noudiae-duei, huomo iede, aokaem-oebaut sie xae-hioir-duei auxol-duirin, huomo iede, aokae xae-ecoi-duei auxol-duirin, xae-ficit-duei fail ficit xuom-ka sait. Fai faelidisus ia fai kaitua muom-ka reuniritafa, fai relixion, fai aidealoxia ia fai doixima-rel-oekonomia saixer tuhat mui, fui iaxefa ia fui poimiafa iede, fui xeroi ia fui fierifa iede, fui luodafa ia haiotedaefa iede fain kulitur faiterexenifa, fui koenix ia fui bauenifa iede, fai menaic huofien liubitifa iede, fai paurein, fui cailid douesearifa, fui difaisifa ia fui tieteilaefa iede, fui opiadaefa ain ediek iede, fui poulitaikifa korutio iede, fui "tieran super" iede, fai "iohatifa hoix-masit" iede, fui doiafa ain doia bueno ia fui rikoafa iede dail hisoria daim pairioda-ka muom-ka xae-ficit-duei tuol - deil hiukaen-kon-daus oan roikuafa duil beiem-fom-saul ien.
+Duil loukeicion-iuf-cauen kaukai tae, Tielus lie-puedaen-duei cainen naiet kinosuatafa earituei. Peuroa muom, xae-ecoi-duei eirielai. Foe-dumaet-duei muimoi duin poin tuo. Tuo die-ecoi-duei tael. Tuo die-ecoi-duei dai haim. Tuo die-ecoi-duei muo. Xiel oan huomo iede, aokaen sie bue-liubit-duei, huomo iede, aokaen sie bue-noudiae-duei, huomo iede, aokaem-oebaut sie xae-hioir-duei auxol-duirin, huomo iede, aokae xae-ecoi-duei auxol-duirin, die-ficit-duei fail ficit xuom-ka sait. Fai faelidisus ia fai kaitua muom-ka reuniritafa, fai relixion, fai aidealoxia ia fai doixima-rel-oekonomia saixer tuhat mui, fui iaxefa ia fui poimiafa iede, fui xeroi ia fui fierifa iede, fui luodafa ia haiotedaefa iede fain kulitur faiterexenifa, fui koenix ia fui bauenifa iede, fai menaic huofien liubitifa iede, fai paurein, fui cailid douesearifa, fui difaisifa ia fui tieteilaefa iede, fui opiadaefa ain ediek iede, fui poulitaikifa korutio iede, fui "tieran super" iede, fai "iohatifa hoix-masit" iede, fui doiafa ain doia bueno ia fui rikoafa iede dail hisoria daim pairioda-ka muom-ka die-ficit-duei tuol - deil hiukaen-kon-daus oan roikuafa duil beiem-fom-saul ien.
+
+Tielus die-ecoi-duei hui loukeicion-iuf-cou pienio suir duil aluea-iuf-cou-ies-raum xirocoi.
 
 ---
 
@@ -383,6 +388,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * aikai - (adjective/adverb) "early"
 * aikuin - (noun, class 3) "grown-up", "adult"
 * ainoa - (adjective/adverb) "mere", "only", "just"
+* aluea - (noun, class 3) "area", "field"
 * amio - (noun, class 2) "friend"
 * aoker - (noun, class 1) "field"
 * aokua - (noun, class 3) "water"
@@ -556,6 +562,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * paurein - (noun, class 2) "parent"
 * peib - (noun, class 3) "a non-binary person"
 * peuroa - (particle) "but"
+* pienio - (adjective) "small", "little"
 * piet - (verb, transitive) "to drink"
 * pietifa - (noun, class 3) "drinker"
 * poimia - (verb, transitive) "to gather", "to forage", "to pick"
@@ -574,6 +581,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * raiboud - (verb, intransitive) "to work", (noun, class 1) "work"
 * raiboudifa - (noun, class 3) "worker"
 * rais - (noun, class 3) "time", "repetition", "instance"
+* raum - (noun, class 3) "space", "universe", "cosmos"
 * real - (adjective/adverb) "real"
 * rein - (verb, transitive) "to rain", (noun, class 3) "rain"
 * relixion - (noun, class 2) "religion"
@@ -639,7 +647,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * xie - (pronoun) "(singular) they", "he", "she", "it"
 * xiefen - (verb, transitive) "to give"
 * xieneraicion - (noun, class 2) "generation"
-* xirocoi - (adjective/adverb) "big", "large"
+* xirocoi - (adjective/adverb) "big", "large", "vast"
 * xoai - (particle) postposition for a rebellious act or event
 * xuatit - (adverb) "enough"
 * xut - (adjective/adverb) "good (in quality)", "well"
