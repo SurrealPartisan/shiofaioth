@@ -151,12 +151,14 @@ Nouns can be compounded by putting them one after other with a compounding parti
 | -------- | -------------------------- |
 | bei      | of type                    |
 | kon      | consisting of / containing |
+| oas      | part of                    |
 | iuf      | used for                   |
 | rel      | related to                 |
 | fom      | from                       |
 | ies      | which is                   |
+| aek      | acting on                  |
 
-The compunding can be chained to form more complex compunds. Usually the context should tell, whether each part describes the firs word or the previous one.
+The compunding can be chained to form more complex compunds. Usually the context should tell, whether each part describes the first word or the previous one.
 
 ### Pronouns
 
@@ -282,7 +284,7 @@ There is no dummy pronoun in Shiofaioth. Instead, for impersonal verbs the subje
 Detransitive is unmarked. That means basically that even a transitive verb can be used without an object.
 
 #### Infinitive and participles
-The infinitive is a verb without the pre- and postpositions given to a predicate. Infinitives are used by auxiliary verbs like "puedaen" ("can") and some other verbs like "kiere" ("to want"). An infinitive can also be used as a noun, meaning the action/event described by the verb, or the product of it, or sometimes (if the action has no product) the object of it. In most cases these nouns belong to class 2, as they are by definition *someone's* actions. In some cases that doesn't make sense, though, so for example "ui rein" ("rain") is a class 3 noun.
+The infinitive is a verb without the pre- and postpositions given to a predicate. Infinitives are used by auxiliary verbs like "puedaen" ("can") and some other verbs like "kiere" ("to want"). An infinitive can also be used as a noun, meaning the action/event described by the verb, or the product of it, or sometimes (if the action has no product) the object of it. In most cases these nouns belong to class 2, as they are by definition *someone's* actions. In some cases that doesn't make sense, though, so for example "ui rein" ("rain") is a class 3 noun. Infinitives can have direct or indirect objects describing them, in accusative and dative, respectively.
 * Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
 * Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai doia* miem-ka.", "The explosion was my doing."
 
@@ -317,6 +319,13 @@ Adjectives can be turned into nouns describing the property with the ending "-(i
 * "Foe-ficit-duei xut!", "Live well!" (When parting and not expecting to see each other again.)
 
 ## Sample texts and translations
+
+### The Bakunin quote
+Ui lifairisus, aokae lie-ecoi-fioi uik socialitisus naiet, xae-ecoi-duei ui oikeusisus ia ui xusicia-naiet; ui socialitisus, aokae lie-ecoi-fioi uik lifairisus naiet, xae-ecoi-duei ui oriuatafasus ia ui fioleititafasus.
+
+---
+
+Liberty without socialism is privilege and injustice; socialism without liberty is slavery and brutality. (Mikhail Bakunin)
 
 ### The piece of tortoise news
 Fuin huomo, aokae lie-laik-duei mas uin toroic kuin uin poulaisifa, bue-ecoidae-duei faelid dai opia, edaet hui toroic soe-baisen-xoai iroitedaefa hein touras huic poulaisifa-ki duil Rio Hudson.
@@ -366,7 +375,7 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 ### Pale Blue Dot (work in progress)
 Duil loukeicion-iuf-cauen kaukai tae, Tielus lie-puedaen-duei cainen naiet kinosuatafa earituei. Peuroa muom, xae-ecoi-duei eirielai. Foe-dumaet-duei muimoi duin poin tuo. Tuo die-ecoi-duei tael. Tuo die-ecoi-duei dai haim. Tuo die-ecoi-duei muo. Xiel oan huomo iede, aokaen sie bue-liubit-duei, huomo iede, aokaen sie bue-noudiae-duei, huomo iede, aokaem-oebaut sie xae-hioir-duei auxol-duirin, huomo iede, aokae xae-ecoi-duei auxol-duirin, die-ficit-duei fail ficit xuom-ka sait. Fai faelidisus ia fai kaitua muom-ka reuniritafa, fai relixion, fai aidealoxia ia fai doixima-rel-oekonomia saixer tuhat mui, fui iaxefa ia fui poimiafa iede, fui xeroi ia fui fierifa iede, fui luodafa ia haiotedaefa iede fain kulitur faiterexenifa, fui koenix ia fui bauenifa iede, fai menaic huofien liubitifa iede, fai paurein, fui cailid douesearifa, fui difaisifa ia fui tieteilaefa iede, fui opiadaefa ain ediek iede, fui poulitaikifa korutio iede, fui "tieran super" iede, fai "iohatifa hoix-masit" iede, fui doiafa ain doia bueno ia fui rikoafa iede dail hisoria daim pairioda-ka muom-ka die-ficit-duei tuol - deil hiukaen-kon-daus oan roikuafa duil beiem-fom-saul ien.
 
-Tielus die-ecoi-duei hui loukeicion-iuf-cou pienio suir duil aluea-iuf-cou-ies-raum xirocoi.
+Tielus die-ecoi-duei hui loukeicion-iuf-cou pienio suir duil aluea-iuf-cou-ies-raum xirocoi. Rue-dumaet-duei fuin rio-kon-saner, aokaen lie-laeikuadae-duei fai iohatifa-aek-foina ia fui koenix-hoix tuo iede soain edaet aik kuniasus ia aik fueix xie lie-puedaen-duei omia ein tail pienio huic poin-ki.
 
 ---
 
@@ -444,16 +453,20 @@ It has been said that astronomy is a humbling and character-building experience.
 * faif - (numeral) "five"
 * faiterexen - (verb, transitive) "to progress"
 * faset - (verb) "to answer", (noun, class 2) "answer"
-* feinier - (verb, intransitive) "to come", "to become"
+* feinier - (verb, intransitive or copular) "to come", "to become"
 * ficit - (verb, intransitive) "to live", (noun, class 2) "life"
 * fieme - (adjective/adverb) "previous", "previously"
 * fier - (verb, transitive) "to fear", (noun, class 2) "fear"
 * fierifa - (adjective/adverb) "fearful", "fearfully", (noun, class 3) "coward"
 * fiheit - (verb, transitive) "to hate"
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
+* fioleit - (verb, transitive) "to hurt (on purpose)", "to violate", "to be violent (towards)"
+* fioleititafasus (noun, class 2 or 3) "violence (from the perspective of the victim)", "being a victim of violence"
 * foe - (particle) interrogative preposition
+* foina (verb, transitive) "to wage war against", (noun, class 2) "war"
 * fores - (noun, class 3) "forest"
 * fosiem - (numeral) "eight"
+* fueix (verb, transitive) "to win (someone)", (noun, class 2) "victory", "triumph"
 * fulif - (noun, class 3) "wolf"
 * fuosi - (noun, class 3) "year"
 * haferia - (noun, class 2) "accident"
@@ -505,7 +518,11 @@ It has been said that astronomy is a humbling and character-building experience.
 * kuin - (particle) "than", "like", "as"
 * kulea - (verb, intransitive) "to roam", "to wander"
 * kulitur - (noun, class 2) "culture"
+* kunia (adjective/adverb) "glorious", "gloriously"
+* kuniasus (noun, class 2) "glory"
 * kurous - (verb, intransitive) "to cross"
+* laeikua - (verb, intransitive) "spill", "spread"
+* laeikuadae - (verb, transitive) "spill", "spread"
 * laie - (verb, intransitive) "to lie", "to rest"
 * laik - (verb, transitive) "to like"
 * lain - (verb, transitive) "to loan", "to borrow"
@@ -515,6 +532,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * leikiae - (verb, transitive) "to play"
 * lie - (particle) conditional preposition
 * lifair - (adjective, adverb) "free", "freely"
+* lifairisus - (noun, class 2 or 3) "freedom", "liberty"
 * linea - (noun, class 1) "line"
 * liraeria - (noun, class 1) "library"
 * liubit - (verb, transitive) "to love", "to hold dear"
@@ -550,9 +568,17 @@ It has been said that astronomy is a humbling and character-building experience.
 * noudiae - (verb, transitive) "to know (about)", "to be familiar with"
 * nueo - (noun, class 3) "night"
 * oekonomia - (noun, class 3) "economics"
+* oikeus - (adjective) "privileged"
+* oikeusisus - (noun, class 2 or 3) "privilege"
+* omia - (verb, transitive) "to own (in a violent sense)", "to control access to" (applicable only to class 1 nouns)
+* omiafa - (noun, class 2) "owner", "master"
+* omiatafa - (noun, class 1) "(private) property"
 * opia - (verb, transitive) "to learn"
 * opiadae - (verb, transitive) "to teach", "to educate"
 * opiadaefa - (noun, class 2) "teacher"
+* oriua - (verb, transitive) "to enslave", "to own as a slave"
+* oriuatafa - (noun, class 2) "slave"
+* oriuatafasus - (noun, class 3) "slavery"
 * pairioda - (noun, class 2) "species", "classification"
 * paluela - (verb, transitive) "to serve"
 * paluelafa - (noun, class 2) "servant"
@@ -595,6 +621,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * rue - (particle) imperative preposition
 * saixer - (adjective/adverb) "confident", "confidently"
 * samen - (adjective/adverb) "together"
+* saner - (noun, class 1) "blood"
 * satonic - (verb, transitive) "to astonish"
 * satonicitafa - (adjective/adverb) "astonished"
 * saul - (noun, class 3) "sun"
@@ -610,6 +637,8 @@ It has been said that astronomy is a humbling and character-building experience.
 * sitai - (verb, transitive) "to tie", "to bind"
 * siuxa - (verb, transitive) "to represent", "to symbolize"
 * soain - (adjective/adverb) - "so", "like", "to the extent", "similar"
+* socialit - (adjective/adverb) "socialistic", (noun, class 3) "socialist"
+* socialitisus - (noun, class 2) "socialisticness", (noun, class 3) "socialism"
 * soe - (particle) reportative indicative preposition
 * soudiu - (noun, class 1) "sausage"
 * suedaen - (adjective/adverb) "sudden", "suddenly"
@@ -620,6 +649,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * suroitifa - (noun, class 3) "builder", "construction worker"
 * tae - (pronoun) "this", "these"
 * taerekeae - (adjective/adverb) "important"
+* tail - (noun, class 1) "part"
 * takai - (particle) "back"
 * teik - (verb, transitive) "to take"
 * ticai - (noun, class 1) "tea"
@@ -650,4 +680,5 @@ It has been said that astronomy is a humbling and character-building experience.
 * xirocoi - (adjective/adverb) "big", "large", "vast"
 * xoai - (particle) postposition for a rebellious act or event
 * xuatit - (adverb) "enough"
+* xusicia - (noun, class 3) "justice"
 * xut - (adjective/adverb) "good (in quality)", "well"
