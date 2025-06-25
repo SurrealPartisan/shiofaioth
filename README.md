@@ -288,13 +288,17 @@ The infinitive is a verb without the pre- and postpositions given to a predicate
 * Example 1 (infinitive verb): "Mie xae-puedaen-heui naiet *silaif*.", "I can't sleep."
 * Example 2 (infinitive as a noun): "Dui loucion xae-ecoi-paoi *hai doia* miem-ka.", "The explosion was my doing."
 
-Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are three types of participles in Shiofaioth: the active or nominative participle (suffix "-(i)fa"), and two passive participles, one accusative (suffix "-(i)tafa") and the other dative (suffix "-(i)mafa"). The initial i of the suffixes will be included if the verb eds in a consonant. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing. Participles can have direct or indirect objects describing them, in accusative and dative, respectively.
-* Example 1 (nominative participle): "ui moer baileifa", "a dancing man"
-* Example 2 (accusative participle): "ai cou baileitafa", "a show that is performed by dancing"
-* Example 3 (dative participle): "ui nais baileimafa", "a woman for whom a dance is performed"
-* Example 4 (past participle): "ei leip xaititafa aikai mas", "a bread that has been eaten"
-* Example 5 (present participle): "ei leip xaititafa aura", "a bread that is being eaten"
-* Example 6 (future participle): "ei leip xaititafa muoehaei mas", "a bread that will be eaten"
+Participles are adjectives/adverbs formed from verbs with derivational suffixes. There are six types of participles in Shiofaioth in two categories. In the category of realis participles, the active or nominative participle (suffix "-(i)fa"), and two passive participles, one accusative (suffix "-(i)tafa") and the other dative (suffix "-(i)mafa"). Similarly, the category of potential participles has corresponding types: the active or nominative participle (suffix "-(i)la"), and two passive participles, one accusative (suffix "-(i)tala") and the other dative (suffix "-(i)mala"). The initial i of the suffixes will be included if the verb eds in a consonant. The realis participles describe actual events, whereas the potential participles describe possibility, similarly to english suffix -able. Similarly to verbs, participles are not inflected for tense, but can take adverbs describing the timing. Participles can have direct or indirect objects describing them, in accusative and dative, respectively. Like all adjectives, also participles can be used as nouns.
+* Example 1 (nominative realis participle): "ui moer baileifa", "a dancing man"
+* Example 2 (accusative realis participle): "ai cou baileitafa", "a show that is performed by dancing"
+* Example 3 (dative realis participle): "ui nais baileimafa", "a woman for whom a dance is performed"
+* Example 4 (nominative potential participle) "ui huomo opiadaela", "a person who can teach"
+* Example 5 (accusative potential participle) "ui bauenitala soil", "farmable land"
+* Example 6 (dative potential participle) "ei kietab ausoamala", "a believable book"
+* Example 7 (dative potential participle with a direct object) "ui koira xiefenimala ein boun", "a dog to whom bones can be given"
+* Example 8 (past participle): "ei leip xaititafa aikai mas", "a bread that has been eaten"
+* Example 9 (present participle): "ei leip xaititafa aura", "a bread that is being eaten"
+* Example 10 (future participle): "ei leip xaititafa muoehaei mas", "a bread that will be eaten"
 
 #### Causative
 A verbs meaning can be changed from "to do something" to "to cause someone/somehing to do something" by adding the suffix "-(e)dae" (the initial e is omitted if the verb stem ends in a vowel). If the original verb is intransitive (or copular), its subject becomes the direct object of the causative verb, taking the accusative case. If the original verb is transitive, its subject will take the dative form in the new sentence. In case the transitive verb is specifically ditransitive, there may be two different dative phrases in the sentence. If it isn't clear from the context which one is the original subject, it should come earlier in the sentence than the indirect object. The mood, evidentiality and voluntariness of the causative verb refer to the causation, not to the original verb.
@@ -310,7 +314,9 @@ The vocabulary of Shiofaioth comes from multiple source languages, including but
 Shiofaioth has one basic question word, "ke" ("what", "who"). Other question words can be derived and inflected from it. "Why" is "ken-four", "where" is "kel", "whose" is "kec(-ki)" or "kem(-ka)", "how" or "what kind of" is "kel-lainen" and "when" is "kel-duirin". The question words typically, but not necessarily, start the sentence. Unlike yes-or-no questions, which use the interrogative mood, "ke"-questions typically use conditional or inferential indicative mood, but there is more variation, as the event in question may for example be observed by the one who asks the question. The "fioi" postposition is often used in questions.
 
 ### Derivational affixes
-Adjectives can be turned into nouns describing the property with the ending "-(i)sus", translating to "-ness" in English. These nouns are usually class 2, but can also be class 3 if they are discussed more abstractly.
+Adjectives can be turned into nouns describing the property with the ending "-(i)sus", translating to "-ness" in English. These nouns are usually class 2, but can also be class 3 if they are discussed more abstractly. The "-(i)sus" ending can also be added to nouns, to make a noun for the property of being something.
+
+Nouns can be turned into adjectives describing lack thereof with the ending "-(i)toin", translating to "-less" in English.
 
 ### Phrases
 * "Hioxoi!", "Hello!"
@@ -375,7 +381,7 @@ The dog and the wolf ran together through the woods to the dog's house. Suddenly
 ### Pale Blue Dot (work in progress)
 Duil loukeicion-iuf-cauen kaukai tae, Tielus lie-puedaen-duei cainen naiet kinosuatafa earituei. Peuroa muom, xae-ecoi-duei eirielai. Foe-dumaet-duei muimoi duin poin tuo. Tuo die-ecoi-duei tael. Tuo die-ecoi-duei dai haim. Tuo die-ecoi-duei muo. Xiel oan huomo iede, aokaen sie bue-liubit-duei, huomo iede, aokaen sie bue-noudiae-duei, huomo iede, aokaem-oebaut sie xae-hioir-duei auxol-duirin, huomo iede, aokae xae-ecoi-duei auxol-duirin, die-ficit-duei fail ficit xuom-ka sait. Fai faelidisus ia fai kaitua muom-ka reuniritafa, fai relixion, fai aidealoxia ia fai doixima-rel-oekonomia saixer tuhat mui, fui iaxefa ia fui poimiafa iede, fui xeroi ia fui fierifa iede, fui luodafa ia haiotedaefa iede fain kulitur faiterexenifa, fui koenix ia fui bauenifa iede, fai menaic huofien liubitifa iede, fai paurein, fui cailid douesearifa, fui difaisifa ia fui tieteilaefa iede, fui opiadaefa ain ediek iede, fui poulitaikifa korutio iede, fui "tieran super" iede, fai "iohatifa hoix-masit" iede, fui doiafa ain doia bueno ia fui rikoafa iede dail hisoria daim pairioda-ka muom-ka die-ficit-duei tuol - deil hiukaen-kon-daus oan roikuafa duil beiem-fom-saul ien.
 
-Tielus die-ecoi-duei hui loukeicion-iuf-cou pienio suir duil aluea-iuf-cou-ies-raum xirocoi. Rue-dumaet-duei fuin rio-kon-saner, aokaen lie-laeikuadae-duei fai iohatifa-aek-foina ia fui koenix-hoix tuo iede soain edaet aik kuniasus ia aik fueix xie lie-puedaen-duei omia ein tail pienio huic poin-ki.
+Tielus die-ecoi-duei hui loukeicion-iuf-cou pienio suir duil aluea-iuf-cou-ies-raum xirocoi. Rue-dumaet-duei fuin rio-kon-saner, aokaen lie-laeikuadae-duei fai iohatifa-aek-foina ia fui koenix-hoix tuo iede soain edaet aik kuniasus ia aik fueix xie lie-puedaen-duei omia ein tail pienio huic poin-ki. Rue-dumaet-duei fain iumasus finitoin, iokaen die-osoit-duei ui risaidifa eix eke duic piceil tae-ki uim risaidifa dicixuiritala cairix eix eke muimoi auxo, fai hiufaer-naiet xuom-ka usein kel-lainen, 
 
 ---
 
@@ -402,7 +408,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * aoker - (noun, class 1) "field"
 * aokua - (noun, class 3) "water"
 * aura - (adjective/adverb) "current", "currently", "now"
-* ausoa - (verb) "to believe"
+* ausoa - (verb, transitive) "to believe" (accusative for the indformation believed, dative for the source of the information)
 * aux - (particle) "even", "too", "also"
 * auxo - (pronoun) "some", "something", "someone"
 * bailei - (verb, transitive) "to dance", (noun, class 2) "dance"
@@ -419,7 +425,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * bueno - (adjective/adverb) "(morally) good", "well"
 * cailid - (noun, class 3) "child", "physically immature person or creature"
 * cainen - (verb, copular) "to seem", "to look"
-* cairix - (adjective/adverb) "difficult", "hard (figuratively)"
+* cairix - (adjective/adverb) "difficult", "hard (figuratively)", "barely", "scarcely"
 * cauen - (verb, transitive) "to look (at)", "to see", "to watch"
 * cepacu - (verb) "to get", "to acquire", "to obtain"
 * cien - (numeral) "hundred"
@@ -429,6 +435,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * dai - (noun, class 3) "day"
 * daurofa - (adjective/adverb) "hard (physically)"
 * daus - (noun, class 3) "dust", "dirt"
+* dicixuir - (verb, transitive) "to distinguish", "to differentiate"
 * die - (particle) - general information indicative preposition
 * dienio - (noun, class 2) "(someone's) child"
 * dies - (numeral) "ten"
@@ -448,6 +455,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * eiciae - (verb, transitive) "to look for", "to search"
 * eine - (pronoun) "any", "anything", "anyone"
 * eirielai - (adjective/adverb) "different", "differently"
+* eke - (noun, class 1) "corner"
 * enae - (particle) "still", "anymore"
 * faelid - (adjective/adverb) "happy"
 * faif - (numeral) "five"
@@ -462,6 +470,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * fioi - (particle) postposition for an action or event when voluntariness is unknown or irrelevant
 * fioleit - (verb, transitive) "to hurt (on purpose)", "to violate", "to be violent (towards)"
 * fioleititafasus (noun, class 2 or 3) "violence (from the perspective of the victim)", "being a victim of violence"
+* fin - (verb, transitive) "to end", (noun, class 1) "end"
 * foe - (particle) interrogative preposition
 * foina (verb, transitive) "to wage war against", (noun, class 2) "war"
 * fores - (noun, class 3) "forest"
@@ -481,10 +490,11 @@ It has been said that astronomy is a humbling and character-building experience.
 * hisoria - (noun, class 2) "history"
 * hioir - (verb, transitive) "to hear", "to listen (to)"
 * hioxoi - (interjection) "hi", "hello", "greetings"
+* hiufaer - (verb, transitive) "to understand"
 * hiukaen (noun, class 1) "particle", "mote", "nugget"
 * hoix - (adjective/adverb) "tall", "high"
 * huofien - (adjective/adverb) "young"
-* huomo - (noun, class 3) "human"
+* huomo - (noun, class 3) "human", "person"
 * iaxe - (verb, transitive) "to hunt"
 * iaxefa - (noun, class 3) "hunter"
 * iede - (pronoun) "every", "everything", "everyone"
@@ -493,6 +503,8 @@ It has been said that astronomy is a humbling and character-building experience.
 * iohatifa (noun, class 2) "leader", "ruler"
 * iroit - (verb, intransitive) "to detach"
 * iroitedae - (verb, transitive) "to detach"
+* iuma - (adjective/adverb) "cruel"
+* iumasus - (noun, class 2) "cruelty"
 * ka - (particle) used for class 2 possession
 * kailien - (adjective/adverb) "warm"
 * kaitua - (verb, intransitive) "to suffer", (noun, class 2) "suffering"
@@ -543,7 +555,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * loukeicion - (noun, class 3) "location", "point"
 * luoda - (verb, transitive) "to create", "to make"
 * luodafa - (adjective/adverb) "creative", "creatively", (noun, class 3) "creator", "maker"
-* maila - (noun, class 3) "the world"
+* maila - (noun, class 3) "world"
 * mas - (adjective/adverb) "more"
 * masit - (adjective/adverb) "most"
 * menaic - (noun, class 2) "couple", "throuple" etc., "romantic partnership"
@@ -579,6 +591,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * oriua - (verb, transitive) "to enslave", "to own as a slave"
 * oriuatafa - (noun, class 2) "slave"
 * oriuatafasus - (noun, class 3) "slavery"
+* osoit - (verb, transitive) "to target something(1) with something(2)", "to apply something(2) to something(1)" (something(1) in accusative, something(2) in dative)
 * pairioda - (noun, class 2) "species", "classification"
 * paluela - (verb, transitive) "to serve"
 * paluelafa - (noun, class 2) "servant"
@@ -588,6 +601,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * paurein - (noun, class 2) "parent"
 * peib - (noun, class 3) "a non-binary person"
 * peuroa - (particle) "but"
+* piceil - (noun, class 3) "pixel"
 * pienio - (adjective) "small", "little"
 * piet - (verb, transitive) "to drink"
 * pietifa - (noun, class 3) "drinker"
@@ -616,7 +630,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * rikoa - (verb, intransitive) "to act against community", "to harm community"
 * rikoafa - (noun, class 3) "criminal", "sinner"
 * rio - (noun, class 3) "river"
-* risaid - (verb, intransitive) "to live (in a place)", "to reside"
+* risaid - (verb, intransitive) "to live (in a place)", "to reside", "to inhabit"
 * roikua - (verb, intransitive) "to hang", "to be suspended"
 * rue - (particle) imperative preposition
 * saixer - (adjective/adverb) "confident", "confidently"
@@ -640,6 +654,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * socialit - (adjective/adverb) "socialistic", (noun, class 3) "socialist"
 * socialitisus - (noun, class 2) "socialisticness", (noun, class 3) "socialism"
 * soe - (particle) reportative indicative preposition
+* soil - (noun, class 3) - "soil", "ground", "land"
 * soudiu - (noun, class 1) "sausage"
 * suedaen - (adjective/adverb) "sudden", "suddenly"
 * suimar - (verb, intransitive) "to swim"
@@ -668,6 +683,7 @@ It has been said that astronomy is a humbling and character-building experience.
 * tuhat - (numeral) "thousand"
 * tuo - (pronoun) "that" (demonstrative pronoun), "those"
 * uon - (numeral) "one"
+* usein - (adjective/adverb) "often", "common (in time)", "frequent"
 * xae - (particle) firsthand indicative preposition
 * xaire - (noun, class 1) "hair"
 * xait - (verb, transitive) "to eat", (noun, class 1) "food"
